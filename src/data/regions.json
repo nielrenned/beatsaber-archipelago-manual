@@ -1,18 +1,130 @@
 {
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-    "ExampleRegion":{
-        "connects_to": ["Second Region"],
-        "requires": "|Ryu| or {YamlCompare(Example_Range >= example )}",
-        "starting": true
-    },
-    "Second Region": {
-        "requires": "|@Characters:1|",
-        "connects_to": ["Third Region"],
-        "exit_requires": {
-            "Third Region": "|@Characters:5|"
-        }
-    },
-    "Third Region": {
-        "connects_to": []
-    }
+	"OST Vol. 1": {
+		"connects_to": ["OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|OST 1 Unlock|"
+	},
+	"OST Vol. 2": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|OST 2 Unlock|"
+	},
+	"OST Vol. 3": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|OST 3 Unlock|"
+	},
+	"OST Vol. 4": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|OST 4 Unlock|"
+	},
+	"OST Vol. 5": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|OST 5 Unlock|"
+	},
+	"OST Vol. 6": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|OST 6 Unlock|"
+	},
+	"OST Vol. 7": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|OST 7 Unlock|"
+	},
+	"Extras": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Extras Unlock|"
+	},
+	"Camellia": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Camellia Unlock|"
+	},
+	"Rock Mixtape": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Rock Mixtape Unlock|"
+	},
+	"Imagine Dragons": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Imagine Dragons Unlock|"
+	},
+	"The Weeknd": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|The Weeknd Unlock|"
+	},
+	"Monstercat": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Monstercat Unlock|"
+	},
+	"Rocket League": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Rocket League Unlock|"
+	},
+	"BTS": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|BTS Unlock|"
+	},
+	"Interscope Mixtape": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Interscope Mixtape Unlock|"
+	},
+	"Skrillex": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Skrillex Unlock|"
+	},
+	"Billie Eilish": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Billie Eilish Unlock|"
+	},
+	"Lady Gaga": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Lady Gaga Unlock|"
+	},
+	"Fall Out Boy": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Fall Out Boy Unlock|"
+	},
+	"Electronic Mixtape": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Electronic Mixtape Unlock|"
+	},
+	"Lizzo": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Lizzo Unlock|"
+	},
+	"Panic at the Disco": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Panic at the Disco Unlock|"
+	},
+	"Green Day": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Green Day Unlock|"
+	},
+	"Timbaland": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Timbaland Unlock|"
+	},
+	"Linkin Park": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Linkin Park Unlock|"
+	},
+	"Queen": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Mike Shinoda", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Queen Unlock|"
+	},
+	"Mike Shinoda": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "The Rolling Stones", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|Mike Shinoda Unlock|"
+	},
+	"The Rolling Stones": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "Daft Punk", "Hip Hop Mixtape"],
+		"requires": "|The Rolling Stones Unlock|"
+	},
+	"Daft Punk": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Hip Hop Mixtape"],
+		"requires": "|Daft Punk Unlock|"
+	},
+	"Hip Hop Mixtape": {
+		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk"],
+		"requires": "|Hip Hop Mixtape Unlock|"
+	},
+	"Victory":{
+		"connects_to":["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk","Hip Hop Mixtape"],
+		"requires": "|@Pack Unlocks:5|"
+	}
 }

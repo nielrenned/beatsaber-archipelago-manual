@@ -1,460 +1,354 @@
-{
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
-    "data": [
-        {
-            "name": "Jill",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"star": 5, "coins": 3},
-            "sort-key": "row-0-1",
-            "classification_count": {"useful + progression": 1, "useful": 1},
-            "_comment": "In this example a copy of the 'Jill' item will be created that is useful & progression and another will be created just useful"
-        },
-        {
-            "name": "Shuma-Gorath",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "value": {"star": 5},
-            "progression": true,
-            "sort-key": "row-0-8"
-        },
-        {
-            "name": "Nemesis T-Type",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"coins": 7},
-            "progression": true,
-            "sort-key": "row-1-1"
-        },
-        {
-            "name": "Firebrand",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-2"
-        },
-        {
-            "name": "Strider Hiryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-3"
-        },
-        {
-            "name": "Phoenix Wright",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-4"
-        },
-        {
-            "name": "Nova",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-5"
-        },
-        {
-            "name": "Ghost Rider",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-6"
-        },
-        {
-            "name": "Hawkeye",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-7"
-        },
-        {
-            "name": "Doctor Strange",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-8"
-        },
-        {
-            "name": "Chris",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-1"
-        },
-        {
-            "name": "Arthur",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-2"
-        },
-        {
-            "name": "Frank West",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-3"
-        },
-        {
-            "name": "Vergil",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-4"
-        },
-        {
-            "name": "Iron Fist",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-5"
-        },
-        {
-            "name": "Rocket Raccoon",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-6"
-        },
-        {
-            "name": "Captain America",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-7"
-        },
-        {
-            "name": "Dormammu",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-8"
-        },
-        {
-            "name": "Wesker",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-1"
-        },
-        {
-            "name": "Zero",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-2"
-        },
-        {
-            "name": "Ryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-3"
-        },
-        {
-            "name": "Dante",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-4"
-        },
-        {
-            "name": "Deadpool",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-5"
-        },
-        {
-            "name": "Wolverine",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-6"
-        },
-        {
-            "name": "Iron Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-7"
-        },
-        {
-            "name": "Doctor Doom",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-8"
-        },
-        {
-            "name": "Morrigan",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-1"
-        },
-        {
-            "name": "Tron",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-2"
-        },
-        {
-            "name": "Chun-Li",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-3"
-        },
-        {
-            "name": "Trish",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-4"
-        },
-        {
-            "name": "X-23",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-5"
-        },
-        {
-            "name": "Storm",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-6"
-        },
-        {
-            "name": "Thor",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-7"
-        },
-        {
-            "name": "M.O.D.O.K.",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-4-8"
-        },
-        {
-            "name": "Felicia",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-1"
-        },
-        {
-            "name": "Spencer",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-2"
-        },
-        {
-            "name": "Akuma",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-3"
-        },
-        {
-            "name": "Viewtiful Joe",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-4"
-        },
-        {
-            "name": "Spider-Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-5"
-        },
-        {
-            "name": "Sentinel",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-6"
-        },
-        {
-            "name": "Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-7"
-        },
-        {
-            "name": "Super-Skrull",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-8"
-        },
-        {
-            "name": "Hsien-Ko",
-            "category": [
-                "Characters",
-                "Left Side",
-                "Trash"
-            ],
-            "progression": true,
-            "sort-key": "row-6-1"
-        },
-        {
-            "name": "Haggar",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-2"
-        },
-        {
-            "name": "C. Viper",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-3"
-        },
-        {
-            "name": "Amaterasu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-4"
-        },
-        {
-            "name": "Phoenix",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-5"
-        },
-        {
-            "name": "Magneto",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-6"
-        },
-        {
-            "name": "She-Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-7"
-        },
-        {
-            "name": "Taskmaster",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-8"
-        }
-    ]
-}
+[
+	{
+		"count": "30",
+		"name": "Bloq",
+		"category": [
+			"Bloqs"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "OST 1 Unlock",
+		"category": [
+			"Pack Unlocks",
+			"OST 1"
+		],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "OST 2 Unlock",
+		"category": [
+			"Pack Unlocks",
+			"OST 2"
+		],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "OST 3 Unlock",
+		"category": [
+			"Pack Unlocks",
+			"OST 3"
+		],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "OST 4 Unlock",
+		"category": [
+			"Pack Unlocks",
+			"OST 4"
+		],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "OST 5 Unlock",
+		"category": [
+			"Pack Unlocks",
+			"OST 5"
+		],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "OST 6 Unlock",
+		"category": [
+			"Pack Unlocks",
+			"OST 6"
+		],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "OST 7 Unlock",
+		"category": [
+			"Pack Unlocks",
+			"OST 7"
+		],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Extras Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Extras"
+		],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Camellia Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Camellia"
+		],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Monstercat Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Monstercat"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Rocket League Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Rocket League"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "BTS Unlock",
+		"category": [
+			"Pack Unlocks",
+			"BTS"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Interscope Mixtape Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Interscope Mixtape"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Skrillex Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Skrillex"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Billie Eilish Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Billie Eilish"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Lady Gaga Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Lady Gaga"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Fall Out Boy Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Fall Out Boy"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Electronic Mixtape Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Electronic Mixtape"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Lizzo Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Lizzo"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Imagine Dragons Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Imagine Dragons"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Rock Mixtape Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Rock Mixtape"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "The Weeknd Unlock",
+		"category": [
+			"Pack Unlocks",
+			"The Weeknd"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Panic at the Disco Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Panic at the Disco"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Green Day Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Green Day"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Timbaland Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Timbaland"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Linkin Park Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Linkin Park"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Queen Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Queen"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Mike Shinoda Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Mike Shinoda"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "The Rolling Stones Unlock",
+		"category": [
+			"Pack Unlocks",
+			"The Rolling Stones"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Daft Punk Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Daft Punk"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Hip Hop Mixtape Unlock",
+		"category": [
+			"Pack Unlocks",
+			"Hip Hop Mixtape"
+		],
+		"progression": true
+	},
+	{
+		"count": "10",
+		"name": "Difficulty Down",
+		"category": [
+			"Modifiers"
+		],
+		"useful": true
+	},
+	{
+		"count": "15",
+		"name": "No Bombs",
+		"category": [
+			"Modifiers"
+		],
+		"useful": true
+	},
+	{
+		"count": "15",
+		"name": "No Walls",
+		"category": [
+			"Modifiers"
+		],
+		"useful": true
+	},
+	{
+		"count": "10",
+		"name": "Slower Song",
+		"category": [
+			"Modifiers"
+		],
+		"useful": true
+	},
+	{
+		"count": "3",
+		"name": "Faster Song",
+		"category": [
+			"Modifiers"
+		],
+		"trap": true
+	},
+	{
+		"count": "5",
+		"name": "Disapering Arrows",
+		"category": [
+			"Modifiers"
+		],
+		"trap": true
+	},
+	{
+		"count": "2",
+		"name": "Small Notes",
+		"category": [
+			"Modifiers"
+		],
+		"trap": true
+	}
+]

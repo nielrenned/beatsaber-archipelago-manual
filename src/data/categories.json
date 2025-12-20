@@ -1,9 +1,118 @@
 {
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Example Logic only category": {
+    "OST 1": {
+        "yaml_option": ["OST_Vol_1"]
+    },
+    "OST 2": {
+        "yaml_option": ["OST_Vol_2"]
+    },
+    "OST 3": {
+        "yaml_option": ["OST_Vol_3"]
+    },
+    "OST 4": {
+        "yaml_option": ["OST_Vol_4"]
+    },
+    "OST 5": {
+        "yaml_option": ["OST_Vol_5"]
+    },
+    "OST 6": {
+        "yaml_option": ["OST_Vol_6"]
+    },
+    "OST 7": {
+        "yaml_option": ["OST_Vol_7"]
+    },
+    "Extras": {
+        "yaml_option": ["Extras"]
+    },
+    "Camellia": {
+        "yaml_option": ["Camellia"]
+    },
+    "Monstercat": {
+        "yaml_option": ["Monstercat_Vol_1_DLC"],
         "hidden": true
     },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
+    "Imagine Dragons": {
+        "yaml_option": ["Imagine_Dragons_DLC"],
+        "hidden": true
+    },
+    "Panic at the Disco": {
+        "yaml_option": ["Panic_at_the_Disco_DLC"],
+        "hidden": true
+    },
+    "Rocket League": {
+        "yaml_option": ["Rocket_League_DLC"],
+        "hidden": true
+    },
+    "Green Day": {
+        "yaml_option": ["Green_Day_DLC"],
+        "hidden": true
+    },
+    "Timbaland": {
+        "yaml_option": ["Timbaland_DLC"],
+        "hidden": true
+    },
+    "Linkin Park": {
+        "yaml_option": ["Linkin_Park_DLC"],
+        "hidden": true
+    },
+    "BTS": {
+        "yaml_option": ["BTS_DLC"],
+        "hidden": true
+    },
+    "Interscope Mixtape": {
+        "yaml_option": ["Interscope_Mixtape_DLC"],
+        "hidden": true
+    },
+    "Skrillex": {
+        "yaml_option": ["Skrillex_DLC"],
+        "hidden": true
+    },
+    "Billie Eilish": {
+        "yaml_option": ["Billie_Eilish_DLC"],
+        "hidden": true
+    },
+    "Lady Gaga": {
+        "yaml_option": ["Lady_Gaga_DLC"],
+        "hidden": true
+    },
+    "Fall Out Boy": {
+        "yaml_option": ["Fall_Out_Boy_DLC"],
+        "hidden": true
+    },
+    "Electronic Mixtape": {
+        "yaml_option": ["Electronic_Mixtape_DLC"],
+        "hidden": true
+    },
+    "Lizzo": {
+        "yaml_option": ["Lizzo_DLC"],
+        "hidden": true
+    },
+    "The Weeknd": {
+        "yaml_option": ["The_Weeknd_DLC"],
+        "hidden": true
+    },
+    "Rock Mixtape": {
+        "yaml_option": ["Rock_Mixtape_DLC"],
+        "hidden": true
+    },
+    "Queen": {
+        "yaml_option": ["Queen_DLC"],
+        "hidden": true
+    },
+    "Mike Shinoda": {
+        "yaml_option": ["Mike_Shinoda_DLC"],
+        "hidden": true
+    },
+    "The Rolling Stones": {
+        "yaml_option": ["The_Rolling_Stones_DLC"],
+        "hidden": true
+    },
+    "Daft Punk": {
+        "yaml_option": ["Daft_Punk_DLC"],
+        "hidden": true
+    },
+    "Hip Hop Mixtape": {
+        "yaml_option": ["Hip_Hop_Mixtape_DLC"],
+        "hidden": true
     }
 }
+
