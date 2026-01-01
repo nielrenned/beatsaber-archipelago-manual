@@ -16,7 +16,7 @@ items = [
 ]
 locations = [
 	{
-		"name": "Done!",
+		"name": "Done! (Requires 20 Bloqs)",
 		"victory": True,
 		"category": ["Victory"],
 		"requires": "|Bloq:20|"
