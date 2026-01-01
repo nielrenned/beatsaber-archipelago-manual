@@ -1,2925 +1,4532 @@
 [
-	{
-		"name": "$100 Bills (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "$100 Bills (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": [] 
-	},
-	{
-		"name": "Balearic Pumping (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Balearic Pumping (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Beat Saber (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["Boss Song","OST 1"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Beat Saber (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["Boss Song","OST 1"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Breezer (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Breezer (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Commercial Pumping (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Commercial Pumping (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Country Rounds (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Country Rounds (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Escape (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Escape (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Legend (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Legend (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Lvl Insane (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Lvl Insane (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Turn Me On (Pass)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Turn Me On (A+ Ranking)",
-		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
-	},
-	{
-		"name": "Be There For You (Pass)",
-		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
-	},
-	{
-		"name": "Be There For You (A+ Ranking)",
-		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
-	},
-	{
-		"name": "Elixia (Pass)",
-		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
-	},
-	{
-		"name": "Elixia (A+ Ranking)",
-		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
-	},
-	{
-		"name": "I Need You (Pass)",
-		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
-	},
-	{
-		"name": "I Need You (A+ Ranking)",
-		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
-	},
-	{
-		"name": "Rum n' Bass (Pass)",
-		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
-	},
-	{
-		"name": "Rum n' Bass (A+ Ranking)",
-		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
-	},
-	{
-		"name": "Unlimited Power (Pass)",
-		"region": "OST Vol. 2",
-		"category": ["Boss Song","OST 2"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Unlimited Power (A+ Ranking)",
-		"region": "OST Vol. 2",
-		"category": ["Boss Song","OST 2"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Origins (Pass)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Origins (A+ Ranking)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Reason For Living (Pass)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Reason For Living (A+ Ranking)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Give a Little Love (Pass)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Give a Little Love (A+ Ranking)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Full Charge (Pass)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Full Charge (A+ Ranking)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Immortal (Pass)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Immortal (A+ Ranking)",
-		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
-	},
-	{
-		"name": "Burning Sands (Pass)",
-		"region": "OST Vol. 3",
-		"category": ["Boss Song","OST 3"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Burning Sands (A+ Ranking)",
-		"region": "OST Vol. 3",
-		"category": ["Boss Song","OST 3"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Into the Dream (Pass)",
-		"region": "OST Vol. 4",
-		"category": ["OST 4"],
-		"requires": []
-	},
-	{
-		"name": "Into the Dream (A+ Ranking)",
-		"region": "OST Vol. 4",
-		"category": ["OST 4"],
-		"requires": []
-	},
-	{
-		"name": "It Takes Me (Pass)",
-		"region": "OST Vol. 4",
-		"category": ["OST 4"],
-		"requires": []
-	},
-	{
-		"name": "It Takes Me (A+ Ranking)",
-		"region": "OST Vol. 4",
-		"category": ["OST 4"],
-		"requires": []
-	},
-	{
-		"name": "LUDICROUS+ (Pass)",
-		"region": "OST Vol. 4",
-		"category": ["OST 4"],
-		"requires": []
-	},
-	{
-		"name": "LUDICROUS+ (A+ Ranking)",
-		"region": "OST Vol. 4",
-		"category": ["OST 4"],
-		"requires": []
-	},
-	{
-		"name": "Spin Eternally (Pass)",
-		"region": "OST Vol. 4",
-		"category": ["Boss Song","OST 4"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Spin Eternally (A+ Ranking)",
-		"region": "OST Vol. 4",
-		"category": ["Boss Song","OST 4"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "$1.78 (Pass)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "$1.78 (A+ Ranking)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "Curtains (All Night Long) (Pass)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "Curtains (All Night Long) (A+ Ranking)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "Final-Boss-Chan (Pass)",
-		"region": "OST Vol. 5",
-		"category": ["Boss Song","OST 5"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Final-Boss-Chan (A+ Ranking)",
-		"region": "OST Vol. 5",
-		"category": ["Boss Song","OST 5"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Firestarter (Pass)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "Firestarter (A+ Ranking)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "I Wanna Be A Machine (Pass)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "I Wanna Be A Machine (A+ Ranking)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "Magic (Pass)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "Magic (A+ Ranking)",
-		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
-	},
-	{
-		"name": "$100 Bills (Camellia's \"215$-Step\" Remix) (Pass)",
-		"region": "Extras",
-		"category": ["Boss Song","Extras"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "$100 Bills (Camellia's \"215$-Step\" Remix) (A+ Ranking)",
-		"region": "Extras",
-		"category": ["Boss Song","Extras"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Escape Remix (Pass)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "Escape Remix (A+ Ranking)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "Spooky Beat (Pass)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "Spooky Beat (A+ Ranking)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "FitBeat (Pass)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "FitBeat (A+ Ranking)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "Crab Rave (Pass)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "Crab Rave (A+ Ranking)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "POP/STARS - K/DA (Pass)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "POP/STARS - K/DA (A+ Ranking)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "One Hope (Pass)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "One Hope (A+ Ranking)",
-		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
-	},
-	{
-		"name": "EXiT This Earth's Atmosphere (Pass)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "EXiT This Earth's Atmosphere (A+ Ranking)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "Ghost (Pass)",
-		"region": "Camellia",
-		"category": ["Boss Song","Camellia"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Ghost (A+ Ranking)",
-		"region": "Camellia",
-		"category": ["Boss Song","Camellia"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Light it up (Pass)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "Light it up (A+ Ranking)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "Crystallized (Pass)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "Crystallized (A+ Ranking)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "Cycle Hit (Pass)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "Cycle Hit (A+ Ranking)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "WHAT THE CAT!? (Pass)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "WHAT THE CAT!? (A+ Ranking)",
-		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
-	},
-	{
-		"name": "Cathedral (Pass)",
-		"region": "OST Vol. 6",
-		"category": ["OST 6"],
-		"requires": []
-	},
-	{
-		"name": "Cathedral (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["OST 6"],
-		"requires": []
-	},
-	{
-		"name": "Heavy Weight (Pass)",
-		"region": "OST Vol. 6",
-		"category": ["OST 6"],
-		"requires": []
-	},
-	{
-		"name": "Heavy Weight (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["OST 6"],
-		"requires": []
-	},
-	{
-		"name": "Lift Off (Pass)",
-		"region": "OST Vol. 6",
-		"category": ["OST 6"],
-		"requires": []
-	},
-	{
-		"name": "Lift Off (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["OST 6"],
-		"requires": []
-	},
-	{
-		"name": "Power of the Saber Blade (Pass)",
-		"region": "OST Vol. 6",
-		"category": ["Boss Song","OST 6"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Power of the Saber Blade (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["Boss Song","OST 6"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Tempo-Katana (Pass)",
-		"region": "OST Vol. 6",
-		"category": ["OST 6"],
-		"requires": []
-	},
-	{
-		"name": "Tempo-Katana (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["OST 6"],
-		"requires": []
-	},
-	{
-		"name": "Boundless (Pass)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Boundless (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Emoji VIP (Pass)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Emoji VIP (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "EPIC (Pass)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "EPIC (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Feeling Stronger (Pass)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Feeling Stronger (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Overkill (Pass)",
-		"region": "Monstercat",
-		"category": ["Boss Song","Monstercat"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Overkill (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Boss Song","Monstercat"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Rattlesnake (Pass)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Rattlesnake (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Stronger (Pass)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Stronger (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "This Time (Pass)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "This Time (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Till It's Over (Pass)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Till It's Over (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "We Won't Be Alone (Pass)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "We Won't Be Alone (A+ Ranking)",
-		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
-	},
-	{
-		"name": "Play (Pass)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Play (A+ Ranking)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Glide (Pass)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Glide (A+ Ranking)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Luv U Need U (Pass)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Luv U Need U (A+ Ranking)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Rock It (Pass)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Rock It (A+ Ranking)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Shiawase (Pass)",
-		"region": "Rocket League",
-		"category": ["Boss Song","Rocket League"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Shiawase (A+ Ranking)",
-		"region": "Rocket League",
-		"category": ["Boss Song","Rocket League"],
-		"requires": ["Bloq:20"]
-	},
-	{
-		"name": "Test Me (Pass)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Test Me (A+ Ranking)",
-		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
-	},
-	{
-		"name": "Blood Sweat & Tears (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Blood Sweat & Tears (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Boy With Luv (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Boy With Luv (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Burning Up (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Burning Up (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Dionysus (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Dionysus (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "DNA (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "DNA (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Dope (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Dope (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Dynamite (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Dynamite (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "FAKE LOVE (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "FAKE LOVE (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "IDOL (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "IDOL (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "MIC Drop (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "MIC Drop (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Not Today (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Not Today (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "UGH! (Pass)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "UGH! (A+ Ranking)",
-		"region": "BTS",
-		"category": ["BTS"],
-		"requires": []
-	},
-	{
-		"name": "Counting Stars (Pass)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Counting Stars (A+ Ranking)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "DNA. (Pass)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "DNA. (A+ Ranking)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Don't Cha (Pass)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Don't Cha (A+ Ranking)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Party Rock Anthem (Pass)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Party Rock Anthem (A+ Ranking)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Rollin' (Pass)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Rollin' (A+ Ranking)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Sugar (Pass)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Sugar (A+ Ranking)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "The Sweet Escape (Pass)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "The Sweet Escape (A+ Ranking)",
-		"region": "Interscope Mixtape",
-		"category": ["Interscope Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Bangarang (Pass)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Bangarang (A+ Ranking)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Butterflies (Pass)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Butterflies (A+ Ranking)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Dont'Go (Pass)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Dont'Go (A+ Ranking)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "First of the Year (Pass)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "First of the Year (A+ Ranking)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Ragga Bomb (Pass)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Ragga Bomb (A+ Ranking)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Rock 'n' Roll (Pass)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Rock 'n' Roll (A+ Ranking)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Scary Monsters and Nice Sprites (Pass)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "Scary Monsters and Nice Sprites (A+ Ranking)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "the Devil's Den (Pass)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "the Devil's Den (A+ Ranking)",
-		"region": "Skrillex",
-		"category": ["Skrillex"],
-		"requires": []
-	},
-	{
-		"name": "all the good girls go to hell (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "all the good girls go to hell (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "bad guy (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "bad guy (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "bellyache (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "bellyache (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "bury a friend (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "bury a friend (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "Happier Than Ever (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "Happier Than Ever (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "I Didn't Change My Number (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "I Didn't Change My Number (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "NDA (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "NDA (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "Oxytocin (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "Oxytocin (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "Therefore I Am (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "Therefore I Am (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "you should see me in a crown (Pass)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "you should see me in a crown (A+ Ranking)",
-		"region": "Billie Eilish",
-		"category": ["Billie Eilish"],
-		"requires": []
-	},
-	{
-		"name": "Alejandro (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Alejandro (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Bad Romance (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Bad Romance (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Born This Way (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Born This Way (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Just Dance (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Just Dance (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Paparazzi (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Paparazzi (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Poker Face (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Poker Face (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Rain On Me (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Rain On Me (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Stupid Love (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Stupid Love (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Telephone (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Telephone (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "The Edge of Glory (Pass)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "The Edge of Glory (A+ Ranking)",
-		"region": "Lady Gaga",
-		"category": ["Lady Gaga"],
-		"requires": []
-	},
-	{
-		"name": "Centuries (Pass)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Centuries (A+ Ranking)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Dance, Dance (Pass)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Dance, Dance (A+ Ranking)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "I Don't Care (Pass)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "I Don't Care (A+ Ranking)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Immortals (Pass)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Immortals (A+ Ranking)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Irresistible (Pass)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Irresistible (A+ Ranking)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "My Songs Know What You Did In The Dark (Pass)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "My Songs Know What You Did In The Dark (A+ Ranking)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "This Ain't A Scene, It's An Arms Race (Pass)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "This Ain't A Scene, It's An Arms Race (A+ Ranking)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Thnks fr th Mmrs (Pass)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Thnks fr th Mmrs (A+ Ranking)",
-		"region": "Fall Out Boy",
-		"category": ["Fall Out Boy"],
-		"requires": []
-	},
-	{
-		"name": "Alone (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Alone (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Animals (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Animals (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Freestyler (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Freestyler (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Ghosts 'n' Stuff (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Ghosts 'n' Stuff (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Icarus (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Icarus (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Sandstorm (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Sandstorm (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Stay The Night (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Stay The Night (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "The Rockafeller Skank (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "The Rockafeller Skank (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Waiting All Night (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Waiting All Night (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Witchcraft (Pass)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Witchcraft (A+ Ranking)",
-		"region": "Electronic Mixtape",
-		"category": ["Electronic Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "2 Be Loved (Pass)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "2 Be Loved (A+ Ranking)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "About Damn Time (Pass)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "About Damn Time (A+ Ranking)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Cuz I Love You (Pass)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Cuz I Love You (A+ Ranking)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Everybody’s Gay (Pass)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Everybody’s Gay (A+ Ranking)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Good As Hell (Pass)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Good As Hell (A+ Ranking)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Juice (Pass)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Juice (A+ Ranking)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Tempo (feat. Missy Elliot) (Pass)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Tempo (feat. Missy Elliot) (A+ Ranking)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Truth Hurts (Pass)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Truth Hurts (A+ Ranking)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Worship (Pass)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Worship (A+ Ranking)",
-		"region": "Lizzo",
-		"category": ["Lizzo"],
-		"requires": []
-	},
-	{
-		"name": "Born To Be Wild (Pass)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Born To Be Wild (A+ Ranking)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Eye of the Tiger (Pass)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Eye of the Tiger (A+ Ranking)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "I Was Made For Lovin’ You (Pass)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "I Was Made For Lovin’ You (A+ Ranking)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Free Bird (Pass)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Free Bird (A+ Ranking)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Seven Nation Army (Pass)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Seven Nation Army (A+ Ranking)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Smells Like Teen Spirit (Pass)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Smells Like Teen Spirit (A+ Ranking)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Sweet Child O’ Mine (Pass)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Sweet Child O’ Mine (A+ Ranking)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "The Pretender (Pass)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "The Pretender (A+ Ranking)",
-		"region": "Rock Mixtape",
-		"category": ["Rock Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Bones (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Bones (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Enemy (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Enemy (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Bad Liar (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Bad Liar (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Believer (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Believer (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Digital (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Digital (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "It's Time (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "It's Time (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Machine (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Machine (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Natural (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Natural (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Radioactive (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Radioactive (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Thunder (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Thunder (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Warriors (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Warriors (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Whatever It Takes (Pass)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Whatever It Takes (A+ Ranking)",
-		"region": "Imagine Dragons",
-		"category": ["Imagine Dragons"],
-		"requires": []
-	},
-	{
-		"name": "Blinding Lights (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Blinding Lights (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Can’t Feel My Face (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Can’t Feel My Face (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "How Do I Make You Love Me? (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "How Do I Make You Love Me? (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "I Feel It Coming (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "I Feel It Coming (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Pray For Me (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Pray For Me (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Sacrifice (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Sacrifice (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Save Your Tears (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Save Your Tears (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Starboy (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Starboy (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Take My Breath (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Take My Breath (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "The Hills (Pass)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "The Hills (A+ Ranking)",
-		"region": "The Weeknd",
-		"category": ["The Weeknd"],
-		"requires": []
-	},
-	{
-		"name": "Emperor's New Clothes (Pass)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	},
-	{
-		"name": "The Greatest Show (Pass)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	},
-	{
-		"name": "High Hopes (Pass)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Victorious (Pass)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Crazy = Genius (Pass)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Dancing's Not A Crime (Pass)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Hey Look Ma, I Made I (Pass)t",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Say Amen (Pass)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Sugar Soaker (Pass)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Viva Las Vengeance (Pass)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Father of All... (Pass)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Holiday (Pass)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Fire, Ready, Aim (Pass)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Minority (Pass)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Boulevard of Broken Dreams (Pass)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "American Idiot (Pass)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Dumb Thingz (Pass)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "Famous (Pass)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "Has a Meaning (Pass)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "What I Like (Pass)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "While We're Young (Pass)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "Breaking the Habit (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Faint (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Given Up (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "In the End (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "New Divide (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Numb (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "One Step Closer (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Papercut (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Somewhere I Belong (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "What I've Done (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Bleed It Out (Pass)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Remember the Name (Pass)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Numb/Encore (Pass)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "More the Victim (Pass)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Lost (Pass)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "In My Head (Pass)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Fighting Myself (Pass)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Crawling (Pass)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Already Over (Pass)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Bite My Head Off (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Can't You Hear Me Knocking (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Gimme Shelter (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Satisfaction (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Live By the Sword (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Mess It Up (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Paint It Black (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Start Me Up (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Sympathy For The Devil (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Whole Wide World (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Angry (Pass)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Around the World / Harder Better Faster Stronger (Pass)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Da Funk / Daftendirekt (Pass)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Get Lucky (Pass)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Harder, Better, Faster, Stronger (Pass)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Lose Yourself to Dance (Pass)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "One More Time (Pass)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Technologic (Pass)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "The Prime Time of Your Life (Pass)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Veridis Quo (Pass)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Emperor's New Clothes (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	},
-	{
-		"name": "The Greatest Show (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	},
-	{
-		"name": "High Hopes (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Victorious (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Crazy = Genius (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Dancing's Not A Crime (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Hey Look Ma, I Made It (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Say Amen (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Sugar Soaker (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Viva Las Vengeance (A+ Ranking)",
-		"region": "Panic at the Disco",
-		"category": ["Panic at the Disco"],
-		"requires": []
-	  },
-	  {
-		"name": "Father of All... (A+ Ranking)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Holiday (A+ Ranking)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Fire, Ready, Aim (A+ Ranking)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Minority (A+ Ranking)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Boulevard of Broken Dreams (A+ Ranking)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "American Idiot (A+ Ranking)",
-		"region": "Green Day",
-		"category": ["Green Day"],
-		"requires": []
-	  },
-	  {
-		"name": "Dumb Thingz (A+ Ranking)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "Famous (A+ Ranking)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "Has a Meaning (A+ Ranking)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "What I Like (A+ Ranking)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "While We're Young (A+ Ranking)",
-		"region": "Timbaland",
-		"category": ["Timbaland"],
-		"requires": []
-	  },
-	  {
-		"name": "Breaking the Habit (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Faint (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Given Up (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "In the End (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "New Divide (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Numb (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "One Step Closer (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Papercut (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Somewhere I Belong (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "What I've Done (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Bleed It Out (A+ Ranking)",
-		"region": "Linkin Park",
-		"category": ["Linkin Park"],
-		"requires": []
-	  },
-	  {
-		"name": "Remember the Name (A+ Ranking)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Numb/Encore (A+ Ranking)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "More the Victim (A+ Ranking)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Lost (A+ Ranking)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "In My Head (A+ Ranking)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Fighting Myself (A+ Ranking)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Crawling (A+ Ranking)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Already Over (A+ Ranking)",
-		"region": "Mike Shinoda",
-		"category": ["Mike Shinoda"],
-		"requires": []
-	  },
-	  {
-		"name": "Bite My Head Off (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Can't You Hear Me Knocking (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Gimme Shelter (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Satisfaction (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Live By the Sword (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Mess It Up (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Paint It Black (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Start Me Up (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Sympathy For The Devil (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Whole Wide World (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Angry (A+ Ranking)",
-		"region": "The Rolling Stones",
-		"category": ["The Rolling Stones"],
-		"requires": []
-	  },
-	  {
-		"name": "Around the World / Harder Better Faster Stronger (A+ Ranking)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Da Funk / Daftendirekt (A+ Ranking)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Get Lucky (A+ Ranking)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Harder, Better, Faster, Stronger (A+ Ranking)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Lose Yourself to Dance (A+ Ranking)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "One More Time (A+ Ranking)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Technologic (A+ Ranking)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "The Prime Time of Your Life (A+ Ranking)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "Veridis Quo (A+ Ranking)",
-		"region": "Daft Punk",
-		"category": ["Daft Punk"],
-		"requires": []
-	  },
-	  {
-		"name": "All Eyez On Me (A+ Ranking)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	  },
-	  {
-		"name": "All Eyez On Me (Pass)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Anaconda (A+ Ranking)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	  },
-	  {
-		"name": "Anaconda (Pass)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Gin and Juice (A+ Ranking)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	  },
-	  {
-		"name": "Gin and Juice (Pass)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Godzilla (A+ Ranking)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	  },
-	  {
-		"name": "Godzilla (Pass)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Hey Ya! (A+ Ranking)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	  },
-	  {
-		"name": "Hey Ya! (Pass)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Hypnotize (A+ Ranking)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	  },
-	  {
-		"name": "Hypnotize (Pass)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "Nuthin' But A G Thang (A+ Ranking)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	  },
-	  {
-		"name": "Nuthin' But A G Thang (Pass)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "The Message (A+ Ranking)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	  },
-	  {
-		"name": "The Message (Pass)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "The Woo (A+ Ranking)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	  },
-	  {
-		"name": "The Woo (Pass)",
-		"region": "Hip Hop Mixtape",
-		"category": ["Hip Hop Mixtape"],
-		"requires": []
-	},
-	{
-		"name": "F.O.O.L (Pass)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "F.O.O.L (A+ Ranking)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "Lusture (Pass)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "Lusture (A+ Ranking)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "The Master (Pass)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "The Master (A+ Ranking)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "Untamed (Pass)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "Untamed (A+ Ranking)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "World Wide Web (Pass)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "World Wide Web (A+ Ranking)",
-		"region": "OST Vol. 7",
-		"category": ["OST 7"],
-		"requires": []
-	},
-	{
-		"name": "Cleared!",
-		"region": "Victory",
-		"victory": true,
-		"category": ["Victory"],
-		"requires": "|Bloq:20|"
-	}
+  {
+    "name": "Done!",
+    "victory": true,
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Bloq:20|"
+  },
+  {
+    "name": "$100 Bills (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"$100 Bills\" Unlock|"
+  },
+  {
+    "name": "$100 Bills (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"$100 Bills\" Unlock|"
+  },
+  {
+    "name": "Balearic Pumping (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Balearic Pumping\" Unlock|"
+  },
+  {
+    "name": "Balearic Pumping (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Balearic Pumping\" Unlock|"
+  },
+  {
+    "name": "Beat Saber (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Beat Saber\" Unlock|"
+  },
+  {
+    "name": "Beat Saber (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Beat Saber\" Unlock|"
+  },
+  {
+    "name": "Breezer (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Breezer\" Unlock|"
+  },
+  {
+    "name": "Breezer (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Breezer\" Unlock|"
+  },
+  {
+    "name": "Commercial Pumping (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Commercial Pumping\" Unlock|"
+  },
+  {
+    "name": "Commercial Pumping (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Commercial Pumping\" Unlock|"
+  },
+  {
+    "name": "Country Rounds (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Country Rounds\" Unlock|"
+  },
+  {
+    "name": "Country Rounds (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Country Rounds\" Unlock|"
+  },
+  {
+    "name": "Escape (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Escape\" Unlock|"
+  },
+  {
+    "name": "Escape (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Escape\" Unlock|"
+  },
+  {
+    "name": "Legend (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Legend\" Unlock|"
+  },
+  {
+    "name": "Legend (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Legend\" Unlock|"
+  },
+  {
+    "name": "Lvl Insane (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Lvl Insane\" Unlock|"
+  },
+  {
+    "name": "Lvl Insane (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Lvl Insane\" Unlock|"
+  },
+  {
+    "name": "Turn Me On (Pass)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Turn Me On\" Unlock|"
+  },
+  {
+    "name": "Turn Me On (A+ Ranking)",
+    "category": [
+      "OST Vol. 1"
+    ],
+    "requires": "|\"Turn Me On\" Unlock|"
+  },
+  {
+    "name": "Be There For You (Pass)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"Be There For You\" Unlock|"
+  },
+  {
+    "name": "Be There For You (A+ Ranking)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"Be There For You\" Unlock|"
+  },
+  {
+    "name": "Elixia (Pass)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"Elixia\" Unlock|"
+  },
+  {
+    "name": "Elixia (A+ Ranking)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"Elixia\" Unlock|"
+  },
+  {
+    "name": "I Need You (Pass)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"I Need You\" Unlock|"
+  },
+  {
+    "name": "I Need You (A+ Ranking)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"I Need You\" Unlock|"
+  },
+  {
+    "name": "Rum n' Bass (Pass)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"Rum n' Bass\" Unlock|"
+  },
+  {
+    "name": "Rum n' Bass (A+ Ranking)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"Rum n' Bass\" Unlock|"
+  },
+  {
+    "name": "Unlimited Power (Pass)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"Unlimited Power\" Unlock|"
+  },
+  {
+    "name": "Unlimited Power (A+ Ranking)",
+    "category": [
+      "OST Vol. 2"
+    ],
+    "requires": "|\"Unlimited Power\" Unlock|"
+  },
+  {
+    "name": "Origins (Pass)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Origins\" Unlock|"
+  },
+  {
+    "name": "Origins (A+ Ranking)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Origins\" Unlock|"
+  },
+  {
+    "name": "Reason For Living (Pass)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Reason For Living\" Unlock|"
+  },
+  {
+    "name": "Reason For Living (A+ Ranking)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Reason For Living\" Unlock|"
+  },
+  {
+    "name": "Give a Little Love (Pass)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Give a Little Love\" Unlock|"
+  },
+  {
+    "name": "Give a Little Love (A+ Ranking)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Give a Little Love\" Unlock|"
+  },
+  {
+    "name": "Full Charge (Pass)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Full Charge\" Unlock|"
+  },
+  {
+    "name": "Full Charge (A+ Ranking)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Full Charge\" Unlock|"
+  },
+  {
+    "name": "Immortal (Pass)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Immortal\" Unlock|"
+  },
+  {
+    "name": "Immortal (A+ Ranking)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Immortal\" Unlock|"
+  },
+  {
+    "name": "Burning Sands (Pass)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Burning Sands\" Unlock|"
+  },
+  {
+    "name": "Burning Sands (A+ Ranking)",
+    "category": [
+      "OST Vol. 3"
+    ],
+    "requires": "|\"Burning Sands\" Unlock|"
+  },
+  {
+    "name": "Into the Dream (Pass)",
+    "category": [
+      "OST Vol. 4"
+    ],
+    "requires": "|\"Into the Dream\" Unlock|"
+  },
+  {
+    "name": "Into the Dream (A+ Ranking)",
+    "category": [
+      "OST Vol. 4"
+    ],
+    "requires": "|\"Into the Dream\" Unlock|"
+  },
+  {
+    "name": "It Takes Me (Pass)",
+    "category": [
+      "OST Vol. 4"
+    ],
+    "requires": "|\"It Takes Me\" Unlock|"
+  },
+  {
+    "name": "It Takes Me (A+ Ranking)",
+    "category": [
+      "OST Vol. 4"
+    ],
+    "requires": "|\"It Takes Me\" Unlock|"
+  },
+  {
+    "name": "LUDICROUS+ (Pass)",
+    "category": [
+      "OST Vol. 4"
+    ],
+    "requires": "|\"LUDICROUS+\" Unlock|"
+  },
+  {
+    "name": "LUDICROUS+ (A+ Ranking)",
+    "category": [
+      "OST Vol. 4"
+    ],
+    "requires": "|\"LUDICROUS+\" Unlock|"
+  },
+  {
+    "name": "Spin Eternally (Pass)",
+    "category": [
+      "OST Vol. 4"
+    ],
+    "requires": "|\"Spin Eternally\" Unlock|"
+  },
+  {
+    "name": "Spin Eternally (A+ Ranking)",
+    "category": [
+      "OST Vol. 4"
+    ],
+    "requires": "|\"Spin Eternally\" Unlock|"
+  },
+  {
+    "name": "$1.78 (Pass)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"$1.78\" Unlock|"
+  },
+  {
+    "name": "$1.78 (A+ Ranking)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"$1.78\" Unlock|"
+  },
+  {
+    "name": "Curtains (All Night Long) (Pass)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"Curtains (All Night Long)\" Unlock|"
+  },
+  {
+    "name": "Curtains (All Night Long) (A+ Ranking)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"Curtains (All Night Long)\" Unlock|"
+  },
+  {
+    "name": "Final-Boss-Chan (Pass)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"Final-Boss-Chan\" Unlock|"
+  },
+  {
+    "name": "Final-Boss-Chan (A+ Ranking)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"Final-Boss-Chan\" Unlock|"
+  },
+  {
+    "name": "Firestarter (Pass)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"Firestarter\" Unlock|"
+  },
+  {
+    "name": "Firestarter (A+ Ranking)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"Firestarter\" Unlock|"
+  },
+  {
+    "name": "I Wanna Be a Machine (Pass)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"I Wanna Be a Machine\" Unlock|"
+  },
+  {
+    "name": "I Wanna Be a Machine (A+ Ranking)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"I Wanna Be a Machine\" Unlock|"
+  },
+  {
+    "name": "Magic (Pass)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"Magic\" Unlock|"
+  },
+  {
+    "name": "Magic (A+ Ranking)",
+    "category": [
+      "OST Vol. 5"
+    ],
+    "requires": "|\"Magic\" Unlock|"
+  },
+  {
+    "name": "Cathedral (Pass)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Cathedral\" Unlock|"
+  },
+  {
+    "name": "Cathedral (A+ Ranking)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Cathedral\" Unlock|"
+  },
+  {
+    "name": "Heavy Weight (Pass)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Heavy Weight\" Unlock|"
+  },
+  {
+    "name": "Heavy Weight (A+ Ranking)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Heavy Weight\" Unlock|"
+  },
+  {
+    "name": "Lift Off (Pass)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Lift Off\" Unlock|"
+  },
+  {
+    "name": "Lift Off (A+ Ranking)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Lift Off\" Unlock|"
+  },
+  {
+    "name": "Power of the Saber Blade (Pass)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Power of the Saber Blade\" Unlock|"
+  },
+  {
+    "name": "Power of the Saber Blade (A+ Ranking)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Power of the Saber Blade\" Unlock|"
+  },
+  {
+    "name": "Tempo-Katana (Pass)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Tempo-Katana\" Unlock|"
+  },
+  {
+    "name": "Tempo-Katana (A+ Ranking)",
+    "category": [
+      "OST Vol. 6"
+    ],
+    "requires": "|\"Tempo-Katana\" Unlock|"
+  },
+  {
+    "name": "Damage (Pass)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"Damage\" Unlock|"
+  },
+  {
+    "name": "Damage (A+ Ranking)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"Damage\" Unlock|"
+  },
+  {
+    "name": "Lustre (Pass)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"Lustre\" Unlock|"
+  },
+  {
+    "name": "Lustre (A+ Ranking)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"Lustre\" Unlock|"
+  },
+  {
+    "name": "The Master (Pass)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"The Master\" Unlock|"
+  },
+  {
+    "name": "The Master (A+ Ranking)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"The Master\" Unlock|"
+  },
+  {
+    "name": "Untamed (Pass)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"Untamed\" Unlock|"
+  },
+  {
+    "name": "Untamed (A+ Ranking)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"Untamed\" Unlock|"
+  },
+  {
+    "name": "World Wide Web (Pass)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"World Wide Web\" Unlock|"
+  },
+  {
+    "name": "World Wide Web (A+ Ranking)",
+    "category": [
+      "OST Vol. 7"
+    ],
+    "requires": "|\"World Wide Web\" Unlock|"
+  },
+  {
+    "name": "Badly (Pass)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"Badly\" Unlock|"
+  },
+  {
+    "name": "Badly (A+ Ranking)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"Badly\" Unlock|"
+  },
+  {
+    "name": "Dragon Smash Goblin (Pass)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"Dragon Smash Goblin\" Unlock|"
+  },
+  {
+    "name": "Dragon Smash Goblin (A+ Ranking)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"Dragon Smash Goblin\" Unlock|"
+  },
+  {
+    "name": "Monday Not Sick Anymore (Pass)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"Monday Not Sick Anymore\" Unlock|"
+  },
+  {
+    "name": "Monday Not Sick Anymore (A+ Ranking)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"Monday Not Sick Anymore\" Unlock|"
+  },
+  {
+    "name": "Overload (Pass)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"Overload\" Unlock|"
+  },
+  {
+    "name": "Overload (A+ Ranking)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"Overload\" Unlock|"
+  },
+  {
+    "name": "STARLIGHT (Pass)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"STARLIGHT\" Unlock|"
+  },
+  {
+    "name": "STARLIGHT (A+ Ranking)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"STARLIGHT\" Unlock|"
+  },
+  {
+    "name": "The Master II - Blades of Chaos (Pass)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"The Master II - Blades of Chaos\" Unlock|"
+  },
+  {
+    "name": "The Master II - Blades of Chaos (A+ Ranking)",
+    "category": [
+      "OST Vol. 8"
+    ],
+    "requires": "|\"The Master II - Blades of Chaos\" Unlock|"
+  },
+  {
+    "name": "Danger (Pass)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Danger\" Unlock|"
+  },
+  {
+    "name": "Danger (A+ Ranking)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Danger\" Unlock|"
+  },
+  {
+    "name": "$100 Bills (Camellia's \"$215-Step\" Remix) (Pass)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"$100 Bills (Camellia's \"$215-Step\" Remix)\" Unlock|"
+  },
+  {
+    "name": "$100 Bills (Camellia's \"$215-Step\" Remix) (A+ Ranking)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"$100 Bills (Camellia's \"$215-Step\" Remix)\" Unlock|"
+  },
+  {
+    "name": "Escape Remix (Pass)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Escape Remix\" Unlock|"
+  },
+  {
+    "name": "Escape Remix (A+ Ranking)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Escape Remix\" Unlock|"
+  },
+  {
+    "name": "Spooky Beat (Pass)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Spooky Beat\" Unlock|"
+  },
+  {
+    "name": "Spooky Beat (A+ Ranking)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Spooky Beat\" Unlock|"
+  },
+  {
+    "name": "FitBeat (Pass)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"FitBeat\" Unlock|"
+  },
+  {
+    "name": "FitBeat (A+ Ranking)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"FitBeat\" Unlock|"
+  },
+  {
+    "name": "Crab Rave (Pass)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Crab Rave\" Unlock|"
+  },
+  {
+    "name": "Crab Rave (A+ Ranking)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Crab Rave\" Unlock|"
+  },
+  {
+    "name": "POP/STARS - K/DA (Pass)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"POP/STARS - K/DA\" Unlock|"
+  },
+  {
+    "name": "POP/STARS - K/DA (A+ Ranking)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"POP/STARS - K/DA\" Unlock|"
+  },
+  {
+    "name": "One Hope (Pass)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"One Hope\" Unlock|"
+  },
+  {
+    "name": "One Hope (A+ Ranking)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"One Hope\" Unlock|"
+  },
+  {
+    "name": "Angel Voices (Pass)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Angel Voices\" Unlock|"
+  },
+  {
+    "name": "Angel Voices (A+ Ranking)",
+    "category": [
+      "Extras"
+    ],
+    "requires": "|\"Angel Voices\" Unlock|"
+  },
+  {
+    "name": "EXiT This Earth's Atmosphere (Pass)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"EXiT This Earth's Atmosphere\" Unlock|"
+  },
+  {
+    "name": "EXiT This Earth's Atmosphere (A+ Ranking)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"EXiT This Earth's Atmosphere\" Unlock|"
+  },
+  {
+    "name": "Ghost (Pass)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"Ghost\" Unlock|"
+  },
+  {
+    "name": "Ghost (A+ Ranking)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"Ghost\" Unlock|"
+  },
+  {
+    "name": "Light it up (Pass)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"Light it up\" Unlock|"
+  },
+  {
+    "name": "Light it up (A+ Ranking)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"Light it up\" Unlock|"
+  },
+  {
+    "name": "Crystallized (Pass)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"Crystallized\" Unlock|"
+  },
+  {
+    "name": "Crystallized (A+ Ranking)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"Crystallized\" Unlock|"
+  },
+  {
+    "name": "Cycle Hit (Pass)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"Cycle Hit\" Unlock|"
+  },
+  {
+    "name": "Cycle Hit (A+ Ranking)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"Cycle Hit\" Unlock|"
+  },
+  {
+    "name": "WHAT THE CAT!? (Pass)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"WHAT THE CAT!?\" Unlock|"
+  },
+  {
+    "name": "WHAT THE CAT!? (A+ Ranking)",
+    "category": [
+      "Camellia"
+    ],
+    "requires": "|\"WHAT THE CAT!?\" Unlock|"
+  },
+  {
+    "name": "Houdini (Pass)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Houdini\" Unlock|"
+  },
+  {
+    "name": "Houdini (A+ Ranking)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Houdini\" Unlock|"
+  },
+  {
+    "name": "Not Like Us (Pass)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Not Like Us\" Unlock|"
+  },
+  {
+    "name": "Not Like Us (A+ Ranking)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Not Like Us\" Unlock|"
+  },
+  {
+    "name": "Abracadabra (Pass)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Abracadabra\" Unlock|"
+  },
+  {
+    "name": "Abracadabra (A+ Ranking)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Abracadabra\" Unlock|"
+  },
+  {
+    "name": "BIRDS OF A FEATHER (Pass)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"BIRDS OF A FEATHER\" Unlock|"
+  },
+  {
+    "name": "BIRDS OF A FEATHER (A+ Ranking)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"BIRDS OF A FEATHER\" Unlock|"
+  },
+  {
+    "name": "Espresso (Pass)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Espresso\" Unlock|"
+  },
+  {
+    "name": "Espresso (A+ Ranking)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Espresso\" Unlock|"
+  },
+  {
+    "name": "Gabriela (Pass)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Gabriela\" Unlock|"
+  },
+  {
+    "name": "Gabriela (A+ Ranking)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Gabriela\" Unlock|"
+  },
+  {
+    "name": "Spooky Scary Skeletons (Pass)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Spooky Scary Skeletons\" Unlock|"
+  },
+  {
+    "name": "Spooky Scary Skeletons (A+ Ranking)",
+    "category": [
+      "Shock Drops"
+    ],
+    "requires": "|\"Spooky Scary Skeletons\" Unlock|"
+  },
+  {
+    "name": "A Sky Full of Stars (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"A Sky Full of Stars\" Unlock|"
+  },
+  {
+    "name": "A Sky Full of Stars (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"A Sky Full of Stars\" Unlock|"
+  },
+  {
+    "name": "Adventure of a Lifetime (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Adventure of a Lifetime\" Unlock|"
+  },
+  {
+    "name": "Adventure of a Lifetime (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Adventure of a Lifetime\" Unlock|"
+  },
+  {
+    "name": "Clocks (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Clocks\" Unlock|"
+  },
+  {
+    "name": "Clocks (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Clocks\" Unlock|"
+  },
+  {
+    "name": "feelslikeimfallinginlove (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"feelslikeimfallinginlove\" Unlock|"
+  },
+  {
+    "name": "feelslikeimfallinginlove (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"feelslikeimfallinginlove\" Unlock|"
+  },
+  {
+    "name": "GOOD FEELiNGS (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"GOOD FEELiNGS\" Unlock|"
+  },
+  {
+    "name": "GOOD FEELiNGS (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"GOOD FEELiNGS\" Unlock|"
+  },
+  {
+    "name": "Something Just Like This (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Something Just Like This\" Unlock|"
+  },
+  {
+    "name": "Something Just Like This (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Something Just Like This\" Unlock|"
+  },
+  {
+    "name": "Speed of Sound (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Speed of Sound\" Unlock|"
+  },
+  {
+    "name": "Speed of Sound (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Speed of Sound\" Unlock|"
+  },
+  {
+    "name": "Talk (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Talk\" Unlock|"
+  },
+  {
+    "name": "Talk (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Talk\" Unlock|"
+  },
+  {
+    "name": "Trouble (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Trouble\" Unlock|"
+  },
+  {
+    "name": "Trouble (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Trouble\" Unlock|"
+  },
+  {
+    "name": "Viva La Vida (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Viva La Vida\" Unlock|"
+  },
+  {
+    "name": "Viva La Vida (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Viva La Vida\" Unlock|"
+  },
+  {
+    "name": "WE PRAY (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"WE PRAY\" Unlock|"
+  },
+  {
+    "name": "WE PRAY (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"WE PRAY\" Unlock|"
+  },
+  {
+    "name": "Yellow (Pass)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Yellow\" Unlock|"
+  },
+  {
+    "name": "Yellow (A+ Ranking)",
+    "category": [
+      "Coldplay"
+    ],
+    "requires": "|\"Yellow\" Unlock|"
+  },
+  {
+    "name": "Atlas, Rise! (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Atlas, Rise!\" Unlock|"
+  },
+  {
+    "name": "Atlas, Rise! (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Atlas, Rise!\" Unlock|"
+  },
+  {
+    "name": "Battery (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Battery\" Unlock|"
+  },
+  {
+    "name": "Battery (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Battery\" Unlock|"
+  },
+  {
+    "name": "Blackened (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Blackened\" Unlock|"
+  },
+  {
+    "name": "Blackened (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Blackened\" Unlock|"
+  },
+  {
+    "name": "Creeping Death (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Creeping Death\" Unlock|"
+  },
+  {
+    "name": "Creeping Death (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Creeping Death\" Unlock|"
+  },
+  {
+    "name": "Enter Sandman (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Enter Sandman\" Unlock|"
+  },
+  {
+    "name": "Enter Sandman (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Enter Sandman\" Unlock|"
+  },
+  {
+    "name": "Fade to Black (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Fade to Black\" Unlock|"
+  },
+  {
+    "name": "Fade to Black (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Fade to Black\" Unlock|"
+  },
+  {
+    "name": "For Whom the Bell Tolls (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"For Whom the Bell Tolls\" Unlock|"
+  },
+  {
+    "name": "For Whom the Bell Tolls (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"For Whom the Bell Tolls\" Unlock|"
+  },
+  {
+    "name": "Fuel (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Fuel\" Unlock|"
+  },
+  {
+    "name": "Fuel (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Fuel\" Unlock|"
+  },
+  {
+    "name": "Hit the Lights (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Hit the Lights\" Unlock|"
+  },
+  {
+    "name": "Hit the Lights (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Hit the Lights\" Unlock|"
+  },
+  {
+    "name": "King Nothing (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"King Nothing\" Unlock|"
+  },
+  {
+    "name": "King Nothing (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"King Nothing\" Unlock|"
+  },
+  {
+    "name": "Lux \u00c3\u2020terna (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Lux \u00c3\u2020terna\" Unlock|"
+  },
+  {
+    "name": "Lux \u00c3\u2020terna (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Lux \u00c3\u2020terna\" Unlock|"
+  },
+  {
+    "name": "Master of Puppets (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Master of Puppets\" Unlock|"
+  },
+  {
+    "name": "Master of Puppets (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Master of Puppets\" Unlock|"
+  },
+  {
+    "name": "Nothing Else Matters (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Nothing Else Matters\" Unlock|"
+  },
+  {
+    "name": "Nothing Else Matters (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Nothing Else Matters\" Unlock|"
+  },
+  {
+    "name": "One (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"One\" Unlock|"
+  },
+  {
+    "name": "One (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"One\" Unlock|"
+  },
+  {
+    "name": "Sad But True (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Sad But True\" Unlock|"
+  },
+  {
+    "name": "Sad But True (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Sad But True\" Unlock|"
+  },
+  {
+    "name": "Seek & Destroy (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Seek & Destroy\" Unlock|"
+  },
+  {
+    "name": "Seek & Destroy (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"Seek & Destroy\" Unlock|"
+  },
+  {
+    "name": "The Unforgiven (Pass)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"The Unforgiven\" Unlock|"
+  },
+  {
+    "name": "The Unforgiven (A+ Ranking)",
+    "category": [
+      "Metallica"
+    ],
+    "requires": "|\"The Unforgiven\" Unlock|"
+  },
+  {
+    "name": "Accelerate (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Accelerate\" Unlock|"
+  },
+  {
+    "name": "Accelerate (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Accelerate\" Unlock|"
+  },
+  {
+    "name": "DABADABADABADABA (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"DABADABADABADABA\" Unlock|"
+  },
+  {
+    "name": "DABADABADABADABA (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"DABADABADABADABA\" Unlock|"
+  },
+  {
+    "name": "Dead Man Walking (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Dead Man Walking\" Unlock|"
+  },
+  {
+    "name": "Dead Man Walking (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Dead Man Walking\" Unlock|"
+  },
+  {
+    "name": "Endgame (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Endgame\" Unlock|"
+  },
+  {
+    "name": "Endgame (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Endgame\" Unlock|"
+  },
+  {
+    "name": "Final Boss (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Final Boss\" Unlock|"
+  },
+  {
+    "name": "Final Boss (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Final Boss\" Unlock|"
+  },
+  {
+    "name": "Memory Bank (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Memory Bank\" Unlock|"
+  },
+  {
+    "name": "Memory Bank (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Memory Bank\" Unlock|"
+  },
+  {
+    "name": "Mercenary (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Mercenary\" Unlock|"
+  },
+  {
+    "name": "Mercenary (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Mercenary\" Unlock|"
+  },
+  {
+    "name": "Pump (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Pump\" Unlock|"
+  },
+  {
+    "name": "Pump (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Pump\" Unlock|"
+  },
+  {
+    "name": "RAD (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"RAD\" Unlock|"
+  },
+  {
+    "name": "RAD (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"RAD\" Unlock|"
+  },
+  {
+    "name": "RIOT (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"RIOT\" Unlock|"
+  },
+  {
+    "name": "RIOT (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"RIOT\" Unlock|"
+  },
+  {
+    "name": "Thrones of Blood (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Thrones of Blood\" Unlock|"
+  },
+  {
+    "name": "Thrones of Blood (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Thrones of Blood\" Unlock|"
+  },
+  {
+    "name": "Wake Up (Pass)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Wake Up\" Unlock|"
+  },
+  {
+    "name": "Wake Up (A+ Ranking)",
+    "category": [
+      "Monstercat Vol. 2"
+    ],
+    "requires": "|\"Wake Up\" Unlock|"
+  },
+  {
+    "name": "\u00e2\u20ac\u00a6Baby One More Time (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"\u00e2\u20ac\u00a6Baby One More Time\" Unlock|"
+  },
+  {
+    "name": "\u00e2\u20ac\u00a6Baby One More Time (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"\u00e2\u20ac\u00a6Baby One More Time\" Unlock|"
+  },
+  {
+    "name": "Circus (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Circus\" Unlock|"
+  },
+  {
+    "name": "Circus (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Circus\" Unlock|"
+  },
+  {
+    "name": "Gimme More (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Gimme More\" Unlock|"
+  },
+  {
+    "name": "Gimme More (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Gimme More\" Unlock|"
+  },
+  {
+    "name": "I' m A Slave 4 U (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"I' m A Slave 4 U\" Unlock|"
+  },
+  {
+    "name": "I' m A Slave 4 U (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"I' m A Slave 4 U\" Unlock|"
+  },
+  {
+    "name": "Me Against the Music (feat. Madonna) (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Me Against the Music (feat. Madonna)\" Unlock|"
+  },
+  {
+    "name": "Me Against the Music (feat. Madonna) (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Me Against the Music (feat. Madonna)\" Unlock|"
+  },
+  {
+    "name": "Oops!...I Did It Again (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Oops!...I Did It Again\" Unlock|"
+  },
+  {
+    "name": "Oops!...I Did It Again (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Oops!...I Did It Again\" Unlock|"
+  },
+  {
+    "name": "Overprotected (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Overprotected\" Unlock|"
+  },
+  {
+    "name": "Overprotected (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Overprotected\" Unlock|"
+  },
+  {
+    "name": "Scream and Shout (Will.I.AM) (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Scream and Shout (Will.I.AM)\" Unlock|"
+  },
+  {
+    "name": "Scream and Shout (Will.I.AM) (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Scream and Shout (Will.I.AM)\" Unlock|"
+  },
+  {
+    "name": "Till the World Ends (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Till the World Ends\" Unlock|"
+  },
+  {
+    "name": "Till the World Ends (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Till the World Ends\" Unlock|"
+  },
+  {
+    "name": "Toxic (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Toxic\" Unlock|"
+  },
+  {
+    "name": "Toxic (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Toxic\" Unlock|"
+  },
+  {
+    "name": "Womanizer (Pass)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Womanizer\" Unlock|"
+  },
+  {
+    "name": "Womanizer (A+ Ranking)",
+    "category": [
+      "Britney Spears"
+    ],
+    "requires": "|\"Womanizer\" Unlock|"
+  },
+  {
+    "name": "All Eyez On Me (Pass)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"All Eyez On Me\" Unlock|"
+  },
+  {
+    "name": "All Eyez On Me (A+ Ranking)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"All Eyez On Me\" Unlock|"
+  },
+  {
+    "name": "Anaconda (Pass)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Anaconda\" Unlock|"
+  },
+  {
+    "name": "Anaconda (A+ Ranking)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Anaconda\" Unlock|"
+  },
+  {
+    "name": "Gin and Juice (Pass)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Gin and Juice\" Unlock|"
+  },
+  {
+    "name": "Gin and Juice (A+ Ranking)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Gin and Juice\" Unlock|"
+  },
+  {
+    "name": "Godzilla (Pass)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Godzilla\" Unlock|"
+  },
+  {
+    "name": "Godzilla (A+ Ranking)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Godzilla\" Unlock|"
+  },
+  {
+    "name": "Hey Ya! (Pass)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Hey Ya!\" Unlock|"
+  },
+  {
+    "name": "Hey Ya! (A+ Ranking)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Hey Ya!\" Unlock|"
+  },
+  {
+    "name": "Hypnotize (Pass)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Hypnotize\" Unlock|"
+  },
+  {
+    "name": "Hypnotize (A+ Ranking)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Hypnotize\" Unlock|"
+  },
+  {
+    "name": "Nuthin' But A \"G\" Thang (Pass)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Nuthin' But A \"G\" Thang\" Unlock|"
+  },
+  {
+    "name": "Nuthin' But A \"G\" Thang (A+ Ranking)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"Nuthin' But A \"G\" Thang\" Unlock|"
+  },
+  {
+    "name": "The Message (Pass)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"The Message\" Unlock|"
+  },
+  {
+    "name": "The Message (A+ Ranking)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"The Message\" Unlock|"
+  },
+  {
+    "name": "The Woo (Pass)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"The Woo\" Unlock|"
+  },
+  {
+    "name": "The Woo (A+ Ranking)",
+    "category": [
+      "Hip Hop Mixtape"
+    ],
+    "requires": "|\"The Woo\" Unlock|"
+  },
+  {
+    "name": "Around The World (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Around The World\" Unlock|"
+  },
+  {
+    "name": "Around The World (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Around The World\" Unlock|"
+  },
+  {
+    "name": "Around The World / Harder Better Faster Stronger (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Around The World / Harder Better Faster Stronger\" Unlock|"
+  },
+  {
+    "name": "Around The World / Harder Better Faster Stronger (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Around The World / Harder Better Faster Stronger\" Unlock|"
+  },
+  {
+    "name": "Da Funk / Daftendirekt (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Da Funk / Daftendirekt\" Unlock|"
+  },
+  {
+    "name": "Da Funk / Daftendirekt (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Da Funk / Daftendirekt\" Unlock|"
+  },
+  {
+    "name": "Get Lucky (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Get Lucky\" Unlock|"
+  },
+  {
+    "name": "Get Lucky (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Get Lucky\" Unlock|"
+  },
+  {
+    "name": "Harder, Better, Faster, Stronger (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Harder, Better, Faster, Stronger\" Unlock|"
+  },
+  {
+    "name": "Harder, Better, Faster, Stronger (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Harder, Better, Faster, Stronger\" Unlock|"
+  },
+  {
+    "name": "Lose Yourself to Dance (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Lose Yourself to Dance\" Unlock|"
+  },
+  {
+    "name": "Lose Yourself to Dance (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Lose Yourself to Dance\" Unlock|"
+  },
+  {
+    "name": "One More Time (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"One More Time\" Unlock|"
+  },
+  {
+    "name": "One More Time (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"One More Time\" Unlock|"
+  },
+  {
+    "name": "The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"The Prime Time of Your Life/The Brainwasher/Rollin'/Alive\" Unlock|"
+  },
+  {
+    "name": "The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"The Prime Time of Your Life/The Brainwasher/Rollin'/Alive\" Unlock|"
+  },
+  {
+    "name": "Technologic (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Technologic\" Unlock|"
+  },
+  {
+    "name": "Technologic (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Technologic\" Unlock|"
+  },
+  {
+    "name": "Veridis Quo (Pass)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Veridis Quo\" Unlock|"
+  },
+  {
+    "name": "Veridis Quo (A+ Ranking)",
+    "category": [
+      "Daft Punk"
+    ],
+    "requires": "|\"Veridis Quo\" Unlock|"
+  },
+  {
+    "name": "Angry (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Angry\" Unlock|"
+  },
+  {
+    "name": "Angry (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Angry\" Unlock|"
+  },
+  {
+    "name": "Bite My Head Off (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Bite My Head Off\" Unlock|"
+  },
+  {
+    "name": "Bite My Head Off (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Bite My Head Off\" Unlock|"
+  },
+  {
+    "name": "Can't You Hear Me Knocking (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Can't You Hear Me Knocking\" Unlock|"
+  },
+  {
+    "name": "Can't You Hear Me Knocking (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Can't You Hear Me Knocking\" Unlock|"
+  },
+  {
+    "name": "Gimme Shelter (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Gimme Shelter\" Unlock|"
+  },
+  {
+    "name": "Gimme Shelter (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Gimme Shelter\" Unlock|"
+  },
+  {
+    "name": "(I Can't Get No) Satisfaction (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"(I Can't Get No) Satisfaction\" Unlock|"
+  },
+  {
+    "name": "(I Can't Get No) Satisfaction (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"(I Can't Get No) Satisfaction\" Unlock|"
+  },
+  {
+    "name": "Live By the Sword (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Live By the Sword\" Unlock|"
+  },
+  {
+    "name": "Live By the Sword (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Live By the Sword\" Unlock|"
+  },
+  {
+    "name": "Mess it Up (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Mess it Up\" Unlock|"
+  },
+  {
+    "name": "Mess it Up (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Mess it Up\" Unlock|"
+  },
+  {
+    "name": "Paint It Black (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Paint It Black\" Unlock|"
+  },
+  {
+    "name": "Paint It Black (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Paint It Black\" Unlock|"
+  },
+  {
+    "name": "Start Me Up (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Start Me Up\" Unlock|"
+  },
+  {
+    "name": "Start Me Up (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Start Me Up\" Unlock|"
+  },
+  {
+    "name": "Sympathy For The Devil (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Sympathy For The Devil\" Unlock|"
+  },
+  {
+    "name": "Sympathy For The Devil (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Sympathy For The Devil\" Unlock|"
+  },
+  {
+    "name": "Whole Wide World (Pass)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Whole Wide World\" Unlock|"
+  },
+  {
+    "name": "Whole Wide World (A+ Ranking)",
+    "category": [
+      "The Rolling Stones"
+    ],
+    "requires": "|\"Whole Wide World\" Unlock|"
+  },
+  {
+    "name": "Already Over (Pass)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Already Over\" Unlock|"
+  },
+  {
+    "name": "Already Over (A+ Ranking)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Already Over\" Unlock|"
+  },
+  {
+    "name": "Crawling (Pass)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Crawling\" Unlock|"
+  },
+  {
+    "name": "Crawling (A+ Ranking)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Crawling\" Unlock|"
+  },
+  {
+    "name": "Fighting Myself (Pass)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Fighting Myself\" Unlock|"
+  },
+  {
+    "name": "Fighting Myself (A+ Ranking)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Fighting Myself\" Unlock|"
+  },
+  {
+    "name": "In My Head (Pass)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"In My Head\" Unlock|"
+  },
+  {
+    "name": "In My Head (A+ Ranking)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"In My Head\" Unlock|"
+  },
+  {
+    "name": "Lost (Pass)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Lost\" Unlock|"
+  },
+  {
+    "name": "Lost (A+ Ranking)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Lost\" Unlock|"
+  },
+  {
+    "name": "More the Victim (Pass)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"More the Victim\" Unlock|"
+  },
+  {
+    "name": "More the Victim (A+ Ranking)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"More the Victim\" Unlock|"
+  },
+  {
+    "name": "Numb/Encore (Pass)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Numb/Encore\" Unlock|"
+  },
+  {
+    "name": "Numb/Encore (A+ Ranking)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Numb/Encore\" Unlock|"
+  },
+  {
+    "name": "Remember The Name (Pass)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Remember The Name\" Unlock|"
+  },
+  {
+    "name": "Remember The Name (A+ Ranking)",
+    "category": [
+      "Mike Shinoda"
+    ],
+    "requires": "|\"Remember The Name\" Unlock|"
+  },
+  {
+    "name": "Bleed It Out (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Bleed It Out\" Unlock|"
+  },
+  {
+    "name": "Bleed It Out (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Bleed It Out\" Unlock|"
+  },
+  {
+    "name": "Breaking the Habit (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Breaking the Habit\" Unlock|"
+  },
+  {
+    "name": "Breaking the Habit (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Breaking the Habit\" Unlock|"
+  },
+  {
+    "name": "Faint (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Faint\" Unlock|"
+  },
+  {
+    "name": "Faint (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Faint\" Unlock|"
+  },
+  {
+    "name": "Given Up (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Given Up\" Unlock|"
+  },
+  {
+    "name": "Given Up (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Given Up\" Unlock|"
+  },
+  {
+    "name": "In the End (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"In the End\" Unlock|"
+  },
+  {
+    "name": "In the End (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"In the End\" Unlock|"
+  },
+  {
+    "name": "New Divide (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"New Divide\" Unlock|"
+  },
+  {
+    "name": "New Divide (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"New Divide\" Unlock|"
+  },
+  {
+    "name": "Numb (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Numb\" Unlock|"
+  },
+  {
+    "name": "Numb (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Numb\" Unlock|"
+  },
+  {
+    "name": "One Step Closer (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"One Step Closer\" Unlock|"
+  },
+  {
+    "name": "One Step Closer (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"One Step Closer\" Unlock|"
+  },
+  {
+    "name": "Papercut (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Papercut\" Unlock|"
+  },
+  {
+    "name": "Papercut (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Papercut\" Unlock|"
+  },
+  {
+    "name": "Somewhere I Belong (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Somewhere I Belong\" Unlock|"
+  },
+  {
+    "name": "Somewhere I Belong (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"Somewhere I Belong\" Unlock|"
+  },
+  {
+    "name": "What I've Done (Pass)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"What I've Done\" Unlock|"
+  },
+  {
+    "name": "What I've Done (A+ Ranking)",
+    "category": [
+      "Linkin Park"
+    ],
+    "requires": "|\"What I've Done\" Unlock|"
+  },
+  {
+    "name": "Die For You (Remix) (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Die For You (Remix)\" Unlock|"
+  },
+  {
+    "name": "Die For You (Remix) (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Die For You (Remix)\" Unlock|"
+  },
+  {
+    "name": "Less Than Zero (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Less Than Zero\" Unlock|"
+  },
+  {
+    "name": "Less Than Zero (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Less Than Zero\" Unlock|"
+  },
+  {
+    "name": "Blinding Lights (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Blinding Lights\" Unlock|"
+  },
+  {
+    "name": "Blinding Lights (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Blinding Lights\" Unlock|"
+  },
+  {
+    "name": "Can't Feel My Face (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Can't Feel My Face\" Unlock|"
+  },
+  {
+    "name": "Can't Feel My Face (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Can't Feel My Face\" Unlock|"
+  },
+  {
+    "name": "How Do I Make You Love Me? (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"How Do I Make You Love Me?\" Unlock|"
+  },
+  {
+    "name": "How Do I Make You Love Me? (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"How Do I Make You Love Me?\" Unlock|"
+  },
+  {
+    "name": "I Feel It Coming (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"I Feel It Coming\" Unlock|"
+  },
+  {
+    "name": "I Feel It Coming (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"I Feel It Coming\" Unlock|"
+  },
+  {
+    "name": "Pray For Me (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Pray For Me\" Unlock|"
+  },
+  {
+    "name": "Pray For Me (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Pray For Me\" Unlock|"
+  },
+  {
+    "name": "Sacrifice (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Sacrifice\" Unlock|"
+  },
+  {
+    "name": "Sacrifice (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Sacrifice\" Unlock|"
+  },
+  {
+    "name": "Save Your Tears (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Save Your Tears\" Unlock|"
+  },
+  {
+    "name": "Save Your Tears (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Save Your Tears\" Unlock|"
+  },
+  {
+    "name": "Starboy (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Starboy\" Unlock|"
+  },
+  {
+    "name": "Starboy (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Starboy\" Unlock|"
+  },
+  {
+    "name": "Take My Breath (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Take My Breath\" Unlock|"
+  },
+  {
+    "name": "Take My Breath (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"Take My Breath\" Unlock|"
+  },
+  {
+    "name": "The Hills (Pass)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"The Hills\" Unlock|"
+  },
+  {
+    "name": "The Hills (A+ Ranking)",
+    "category": [
+      "The Weeknd"
+    ],
+    "requires": "|\"The Hills\" Unlock|"
+  },
+  {
+    "name": "Another One Bites the Dust (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Another One Bites the Dust\" Unlock|"
+  },
+  {
+    "name": "Another One Bites the Dust (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Another One Bites the Dust\" Unlock|"
+  },
+  {
+    "name": "Bohemian Rhapsody (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Bohemian Rhapsody\" Unlock|"
+  },
+  {
+    "name": "Bohemian Rhapsody (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Bohemian Rhapsody\" Unlock|"
+  },
+  {
+    "name": "Crazy Little Thing Called Love (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Crazy Little Thing Called Love\" Unlock|"
+  },
+  {
+    "name": "Crazy Little Thing Called Love (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Crazy Little Thing Called Love\" Unlock|"
+  },
+  {
+    "name": "Don-t Stop Me Now (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Don-t Stop Me Now\" Unlock|"
+  },
+  {
+    "name": "Don-t Stop Me Now (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Don-t Stop Me Now\" Unlock|"
+  },
+  {
+    "name": "I Want It All (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"I Want It All\" Unlock|"
+  },
+  {
+    "name": "I Want It All (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"I Want It All\" Unlock|"
+  },
+  {
+    "name": "Killer Queen (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Killer Queen\" Unlock|"
+  },
+  {
+    "name": "Killer Queen (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Killer Queen\" Unlock|"
+  },
+  {
+    "name": "One Vision (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"One Vision\" Unlock|"
+  },
+  {
+    "name": "One Vision (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"One Vision\" Unlock|"
+  },
+  {
+    "name": "Somebody to Love (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Somebody to Love\" Unlock|"
+  },
+  {
+    "name": "Somebody to Love (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Somebody to Love\" Unlock|"
+  },
+  {
+    "name": "Stone Cold Crazy (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Stone Cold Crazy\" Unlock|"
+  },
+  {
+    "name": "Stone Cold Crazy (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"Stone Cold Crazy\" Unlock|"
+  },
+  {
+    "name": "We Are The Champions (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"We Are The Champions\" Unlock|"
+  },
+  {
+    "name": "We Are The Champions (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"We Are The Champions\" Unlock|"
+  },
+  {
+    "name": "We Will Rock You (Pass)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"We Will Rock You\" Unlock|"
+  },
+  {
+    "name": "We Will Rock You (A+ Ranking)",
+    "category": [
+      "Queen"
+    ],
+    "requires": "|\"We Will Rock You\" Unlock|"
+  },
+  {
+    "name": "Crazy = Genius (Pass)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Crazy = Genius\" Unlock|"
+  },
+  {
+    "name": "Crazy = Genius (A+ Ranking)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Crazy = Genius\" Unlock|"
+  },
+  {
+    "name": "Dancing's Not A Crime (Pass)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Dancing's Not A Crime\" Unlock|"
+  },
+  {
+    "name": "Dancing's Not A Crime (A+ Ranking)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Dancing's Not A Crime\" Unlock|"
+  },
+  {
+    "name": "Hey Look Ma, I Made It (Pass)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Hey Look Ma, I Made It\" Unlock|"
+  },
+  {
+    "name": "Hey Look Ma, I Made It (A+ Ranking)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Hey Look Ma, I Made It\" Unlock|"
+  },
+  {
+    "name": "Say Amen (Saturday Night) (Pass)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Say Amen (Saturday Night)\" Unlock|"
+  },
+  {
+    "name": "Say Amen (Saturday Night) (A+ Ranking)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Say Amen (Saturday Night)\" Unlock|"
+  },
+  {
+    "name": "Sugar Soaker (Pass)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Sugar Soaker\" Unlock|"
+  },
+  {
+    "name": "Sugar Soaker (A+ Ranking)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Sugar Soaker\" Unlock|"
+  },
+  {
+    "name": "Viva Las Vengeance (Pass)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Viva Las Vengeance\" Unlock|"
+  },
+  {
+    "name": "Viva Las Vengeance (A+ Ranking)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Viva Las Vengeance\" Unlock|"
+  },
+  {
+    "name": "Emperor's New Clothes (Pass)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Emperor's New Clothes\" Unlock|"
+  },
+  {
+    "name": "Emperor's New Clothes (A+ Ranking)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"Emperor's New Clothes\" Unlock|"
+  },
+  {
+    "name": "High Hopes (Pass)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"High Hopes\" Unlock|"
+  },
+  {
+    "name": "High Hopes (A+ Ranking)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"High Hopes\" Unlock|"
+  },
+  {
+    "name": "The Greatest Show (Pass)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"The Greatest Show\" Unlock|"
+  },
+  {
+    "name": "The Greatest Show (A+ Ranking)",
+    "category": [
+      "Panic at the Disco"
+    ],
+    "requires": "|\"The Greatest Show\" Unlock|"
+  },
+  {
+    "name": "Bones (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Bones\" Unlock|"
+  },
+  {
+    "name": "Bones (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Bones\" Unlock|"
+  },
+  {
+    "name": "Enemy (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Enemy\" Unlock|"
+  },
+  {
+    "name": "Enemy (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Enemy\" Unlock|"
+  },
+  {
+    "name": "Bad Liar (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Bad Liar\" Unlock|"
+  },
+  {
+    "name": "Bad Liar (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Bad Liar\" Unlock|"
+  },
+  {
+    "name": "Believer (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Believer\" Unlock|"
+  },
+  {
+    "name": "Believer (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Believer\" Unlock|"
+  },
+  {
+    "name": "Digital (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Digital\" Unlock|"
+  },
+  {
+    "name": "Digital (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Digital\" Unlock|"
+  },
+  {
+    "name": "It's Time (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"It's Time\" Unlock|"
+  },
+  {
+    "name": "It's Time (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"It's Time\" Unlock|"
+  },
+  {
+    "name": "Machine (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Machine\" Unlock|"
+  },
+  {
+    "name": "Machine (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Machine\" Unlock|"
+  },
+  {
+    "name": "Natural (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Natural\" Unlock|"
+  },
+  {
+    "name": "Natural (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Natural\" Unlock|"
+  },
+  {
+    "name": "Radioactive (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Radioactive\" Unlock|"
+  },
+  {
+    "name": "Radioactive (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Radioactive\" Unlock|"
+  },
+  {
+    "name": "Thunder (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Thunder\" Unlock|"
+  },
+  {
+    "name": "Thunder (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Thunder\" Unlock|"
+  },
+  {
+    "name": "Warriors (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Warriors\" Unlock|"
+  },
+  {
+    "name": "Warriors (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Warriors\" Unlock|"
+  },
+  {
+    "name": "Whatever It Takes (Pass)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Whatever It Takes\" Unlock|"
+  },
+  {
+    "name": "Whatever It Takes (A+ Ranking)",
+    "category": [
+      "Imagine Dragons"
+    ],
+    "requires": "|\"Whatever It Takes\" Unlock|"
+  },
+  {
+    "name": "Born To Be Wild (Pass)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Born To Be Wild\" Unlock|"
+  },
+  {
+    "name": "Born To Be Wild (A+ Ranking)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Born To Be Wild\" Unlock|"
+  },
+  {
+    "name": "Eye of the Tiger (Pass)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Eye of the Tiger\" Unlock|"
+  },
+  {
+    "name": "Eye of the Tiger (A+ Ranking)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Eye of the Tiger\" Unlock|"
+  },
+  {
+    "name": "Free Bird (Pass)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Free Bird\" Unlock|"
+  },
+  {
+    "name": "Free Bird (A+ Ranking)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Free Bird\" Unlock|"
+  },
+  {
+    "name": "I Was Made For Lovin' You (Pass)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"I Was Made For Lovin' You\" Unlock|"
+  },
+  {
+    "name": "I Was Made For Lovin' You (A+ Ranking)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"I Was Made For Lovin' You\" Unlock|"
+  },
+  {
+    "name": "Seven Nation Army (Pass)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Seven Nation Army\" Unlock|"
+  },
+  {
+    "name": "Seven Nation Army (A+ Ranking)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Seven Nation Army\" Unlock|"
+  },
+  {
+    "name": "Smells Like Teen Spirit (Pass)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Smells Like Teen Spirit\" Unlock|"
+  },
+  {
+    "name": "Smells Like Teen Spirit (A+ Ranking)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Smells Like Teen Spirit\" Unlock|"
+  },
+  {
+    "name": "Sweet Child O' Mine (Pass)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Sweet Child O' Mine\" Unlock|"
+  },
+  {
+    "name": "Sweet Child O' Mine (A+ Ranking)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"Sweet Child O' Mine\" Unlock|"
+  },
+  {
+    "name": "The Pretender (Pass)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"The Pretender\" Unlock|"
+  },
+  {
+    "name": "The Pretender (A+ Ranking)",
+    "category": [
+      "Rock Mixtape"
+    ],
+    "requires": "|\"The Pretender\" Unlock|"
+  },
+  {
+    "name": "2 Be Loved (Pass)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"2 Be Loved\" Unlock|"
+  },
+  {
+    "name": "2 Be Loved (A+ Ranking)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"2 Be Loved\" Unlock|"
+  },
+  {
+    "name": "About Damn Time (Pass)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"About Damn Time\" Unlock|"
+  },
+  {
+    "name": "About Damn Time (A+ Ranking)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"About Damn Time\" Unlock|"
+  },
+  {
+    "name": "Cuz I Love You (Pass)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Cuz I Love You\" Unlock|"
+  },
+  {
+    "name": "Cuz I Love You (A+ Ranking)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Cuz I Love You\" Unlock|"
+  },
+  {
+    "name": "Everybody's Gay (Pass)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Everybody's Gay\" Unlock|"
+  },
+  {
+    "name": "Everybody's Gay (A+ Ranking)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Everybody's Gay\" Unlock|"
+  },
+  {
+    "name": "Good As Hell (Pass)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Good As Hell\" Unlock|"
+  },
+  {
+    "name": "Good As Hell (A+ Ranking)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Good As Hell\" Unlock|"
+  },
+  {
+    "name": "Juice (Pass)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Juice\" Unlock|"
+  },
+  {
+    "name": "Juice (A+ Ranking)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Juice\" Unlock|"
+  },
+  {
+    "name": "Tempo (Pass)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Tempo\" Unlock|"
+  },
+  {
+    "name": "Tempo (A+ Ranking)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Tempo\" Unlock|"
+  },
+  {
+    "name": "Truth Hurts (Pass)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Truth Hurts\" Unlock|"
+  },
+  {
+    "name": "Truth Hurts (A+ Ranking)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Truth Hurts\" Unlock|"
+  },
+  {
+    "name": "Worship (Pass)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Worship\" Unlock|"
+  },
+  {
+    "name": "Worship (A+ Ranking)",
+    "category": [
+      "Lizzo"
+    ],
+    "requires": "|\"Worship\" Unlock|"
+  },
+  {
+    "name": "Alone (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Alone\" Unlock|"
+  },
+  {
+    "name": "Alone (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Alone\" Unlock|"
+  },
+  {
+    "name": "Animals (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Animals\" Unlock|"
+  },
+  {
+    "name": "Animals (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Animals\" Unlock|"
+  },
+  {
+    "name": "Freestyler (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Freestyler\" Unlock|"
+  },
+  {
+    "name": "Freestyler (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Freestyler\" Unlock|"
+  },
+  {
+    "name": "Ghosts 'n' Stuff (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Ghosts 'n' Stuff\" Unlock|"
+  },
+  {
+    "name": "Ghosts 'n' Stuff (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Ghosts 'n' Stuff\" Unlock|"
+  },
+  {
+    "name": "Icarus (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Icarus\" Unlock|"
+  },
+  {
+    "name": "Icarus (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Icarus\" Unlock|"
+  },
+  {
+    "name": "Sandstorm (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Sandstorm\" Unlock|"
+  },
+  {
+    "name": "Sandstorm (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Sandstorm\" Unlock|"
+  },
+  {
+    "name": "Stay The Night (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Stay The Night\" Unlock|"
+  },
+  {
+    "name": "Stay The Night (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Stay The Night\" Unlock|"
+  },
+  {
+    "name": "The Rockafeller Skank (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"The Rockafeller Skank\" Unlock|"
+  },
+  {
+    "name": "The Rockafeller Skank (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"The Rockafeller Skank\" Unlock|"
+  },
+  {
+    "name": "Waiting All Night (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Waiting All Night\" Unlock|"
+  },
+  {
+    "name": "Waiting All Night (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Waiting All Night\" Unlock|"
+  },
+  {
+    "name": "Witchcraft (Pass)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Witchcraft\" Unlock|"
+  },
+  {
+    "name": "Witchcraft (A+ Ranking)",
+    "category": [
+      "Electronic Mixtape"
+    ],
+    "requires": "|\"Witchcraft\" Unlock|"
+  },
+  {
+    "name": "Centuries (Pass)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Centuries\" Unlock|"
+  },
+  {
+    "name": "Centuries (A+ Ranking)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Centuries\" Unlock|"
+  },
+  {
+    "name": "Dance, Dance (Pass)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Dance, Dance\" Unlock|"
+  },
+  {
+    "name": "Dance, Dance (A+ Ranking)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Dance, Dance\" Unlock|"
+  },
+  {
+    "name": "I Don't Care (Pass)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"I Don't Care\" Unlock|"
+  },
+  {
+    "name": "I Don't Care (A+ Ranking)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"I Don't Care\" Unlock|"
+  },
+  {
+    "name": "Immortals (Pass)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Immortals\" Unlock|"
+  },
+  {
+    "name": "Immortals (A+ Ranking)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Immortals\" Unlock|"
+  },
+  {
+    "name": "Irresistible (Pass)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Irresistible\" Unlock|"
+  },
+  {
+    "name": "Irresistible (A+ Ranking)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Irresistible\" Unlock|"
+  },
+  {
+    "name": "My Songs Know What You Did In The Dark (Pass)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"My Songs Know What You Did In The Dark\" Unlock|"
+  },
+  {
+    "name": "My Songs Know What You Did In The Dark (A+ Ranking)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"My Songs Know What You Did In The Dark\" Unlock|"
+  },
+  {
+    "name": "This Ain't A Scene, It's An Arms Race (Pass)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"This Ain't A Scene, It's An Arms Race\" Unlock|"
+  },
+  {
+    "name": "This Ain't A Scene, It's An Arms Race (A+ Ranking)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"This Ain't A Scene, It's An Arms Race\" Unlock|"
+  },
+  {
+    "name": "Thnks fr th Mmrs (Pass)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Thnks fr th Mmrs\" Unlock|"
+  },
+  {
+    "name": "Thnks fr th Mmrs (A+ Ranking)",
+    "category": [
+      "Fall Out Boy"
+    ],
+    "requires": "|\"Thnks fr th Mmrs\" Unlock|"
+  },
+  {
+    "name": "Alejandro (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Alejandro\" Unlock|"
+  },
+  {
+    "name": "Alejandro (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Alejandro\" Unlock|"
+  },
+  {
+    "name": "Bad Romance (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Bad Romance\" Unlock|"
+  },
+  {
+    "name": "Bad Romance (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Bad Romance\" Unlock|"
+  },
+  {
+    "name": "Born This Way (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Born This Way\" Unlock|"
+  },
+  {
+    "name": "Born This Way (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Born This Way\" Unlock|"
+  },
+  {
+    "name": "Just Dance (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Just Dance\" Unlock|"
+  },
+  {
+    "name": "Just Dance (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Just Dance\" Unlock|"
+  },
+  {
+    "name": "Paparazzi (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Paparazzi\" Unlock|"
+  },
+  {
+    "name": "Paparazzi (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Paparazzi\" Unlock|"
+  },
+  {
+    "name": "Poker Face (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Poker Face\" Unlock|"
+  },
+  {
+    "name": "Poker Face (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Poker Face\" Unlock|"
+  },
+  {
+    "name": "Rain On Me (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Rain On Me\" Unlock|"
+  },
+  {
+    "name": "Rain On Me (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Rain On Me\" Unlock|"
+  },
+  {
+    "name": "Stupid Love (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Stupid Love\" Unlock|"
+  },
+  {
+    "name": "Stupid Love (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Stupid Love\" Unlock|"
+  },
+  {
+    "name": "Telephone (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Telephone\" Unlock|"
+  },
+  {
+    "name": "Telephone (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"Telephone\" Unlock|"
+  },
+  {
+    "name": "The Edge of Glory (Pass)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"The Edge of Glory\" Unlock|"
+  },
+  {
+    "name": "The Edge of Glory (A+ Ranking)",
+    "category": [
+      "Lady Gaga"
+    ],
+    "requires": "|\"The Edge of Glory\" Unlock|"
+  },
+  {
+    "name": "all the good girls go to hell (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"all the good girls go to hell\" Unlock|"
+  },
+  {
+    "name": "all the good girls go to hell (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"all the good girls go to hell\" Unlock|"
+  },
+  {
+    "name": "bad guy (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"bad guy\" Unlock|"
+  },
+  {
+    "name": "bad guy (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"bad guy\" Unlock|"
+  },
+  {
+    "name": "bellyache (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"bellyache\" Unlock|"
+  },
+  {
+    "name": "bellyache (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"bellyache\" Unlock|"
+  },
+  {
+    "name": "bury a friend (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"bury a friend\" Unlock|"
+  },
+  {
+    "name": "bury a friend (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"bury a friend\" Unlock|"
+  },
+  {
+    "name": "Happier Than Ever (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"Happier Than Ever\" Unlock|"
+  },
+  {
+    "name": "Happier Than Ever (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"Happier Than Ever\" Unlock|"
+  },
+  {
+    "name": "I Didn't Change My Number (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"I Didn't Change My Number\" Unlock|"
+  },
+  {
+    "name": "I Didn't Change My Number (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"I Didn't Change My Number\" Unlock|"
+  },
+  {
+    "name": "NDA (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"NDA\" Unlock|"
+  },
+  {
+    "name": "NDA (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"NDA\" Unlock|"
+  },
+  {
+    "name": "Oxytocin (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"Oxytocin\" Unlock|"
+  },
+  {
+    "name": "Oxytocin (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"Oxytocin\" Unlock|"
+  },
+  {
+    "name": "Therefore I Am (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"Therefore I Am\" Unlock|"
+  },
+  {
+    "name": "Therefore I Am (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"Therefore I Am\" Unlock|"
+  },
+  {
+    "name": "You Should See Me In A Crown (Pass)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"You Should See Me In A Crown\" Unlock|"
+  },
+  {
+    "name": "You Should See Me In A Crown (A+ Ranking)",
+    "category": [
+      "Billie Eilish"
+    ],
+    "requires": "|\"You Should See Me In A Crown\" Unlock|"
+  },
+  {
+    "name": "Bangarang (Pass)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Bangarang\" Unlock|"
+  },
+  {
+    "name": "Bangarang (A+ Ranking)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Bangarang\" Unlock|"
+  },
+  {
+    "name": "Butterflies (Pass)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Butterflies\" Unlock|"
+  },
+  {
+    "name": "Butterflies (A+ Ranking)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Butterflies\" Unlock|"
+  },
+  {
+    "name": "Dont'Go (Pass)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Dont'Go\" Unlock|"
+  },
+  {
+    "name": "Dont'Go (A+ Ranking)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Dont'Go\" Unlock|"
+  },
+  {
+    "name": "First of the Year (Pass)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"First of the Year\" Unlock|"
+  },
+  {
+    "name": "First of the Year (A+ Ranking)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"First of the Year\" Unlock|"
+  },
+  {
+    "name": "Ragga Bomb (Pass)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Ragga Bomb\" Unlock|"
+  },
+  {
+    "name": "Ragga Bomb (A+ Ranking)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Ragga Bomb\" Unlock|"
+  },
+  {
+    "name": "Rock 'n' Roll (Pass)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Rock 'n' Roll\" Unlock|"
+  },
+  {
+    "name": "Rock 'n' Roll (A+ Ranking)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Rock 'n' Roll\" Unlock|"
+  },
+  {
+    "name": "Scary Monsters and Nice Sprites (Pass)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Scary Monsters and Nice Sprites\" Unlock|"
+  },
+  {
+    "name": "Scary Monsters and Nice Sprites (A+ Ranking)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"Scary Monsters and Nice Sprites\" Unlock|"
+  },
+  {
+    "name": "the Devil's Den (Pass)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"the Devil's Den\" Unlock|"
+  },
+  {
+    "name": "the Devil's Den (A+ Ranking)",
+    "category": [
+      "Skrillex"
+    ],
+    "requires": "|\"the Devil's Den\" Unlock|"
+  },
+  {
+    "name": "Counting Stars (Pass)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Counting Stars\" Unlock|"
+  },
+  {
+    "name": "Counting Stars (A+ Ranking)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Counting Stars\" Unlock|"
+  },
+  {
+    "name": "DNA. (Pass)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"DNA.\" Unlock|"
+  },
+  {
+    "name": "DNA. (A+ Ranking)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"DNA.\" Unlock|"
+  },
+  {
+    "name": "Don't Cha (Pass)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Don't Cha\" Unlock|"
+  },
+  {
+    "name": "Don't Cha (A+ Ranking)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Don't Cha\" Unlock|"
+  },
+  {
+    "name": "Party Rock Anthem (Pass)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Party Rock Anthem\" Unlock|"
+  },
+  {
+    "name": "Party Rock Anthem (A+ Ranking)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Party Rock Anthem\" Unlock|"
+  },
+  {
+    "name": "Rollin' (Pass)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Rollin'\" Unlock|"
+  },
+  {
+    "name": "Rollin' (A+ Ranking)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Rollin'\" Unlock|"
+  },
+  {
+    "name": "Sugar (Pass)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Sugar\" Unlock|"
+  },
+  {
+    "name": "Sugar (A+ Ranking)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"Sugar\" Unlock|"
+  },
+  {
+    "name": "The Sweet Escape (Pass)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"The Sweet Escape\" Unlock|"
+  },
+  {
+    "name": "The Sweet Escape (A+ Ranking)",
+    "category": [
+      "Interscope Mixtape"
+    ],
+    "requires": "|\"The Sweet Escape\" Unlock|"
+  },
+  {
+    "name": "Blood Sweat & Tears (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Blood Sweat & Tears\" Unlock|"
+  },
+  {
+    "name": "Blood Sweat & Tears (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Blood Sweat & Tears\" Unlock|"
+  },
+  {
+    "name": "Boy With Luv (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Boy With Luv\" Unlock|"
+  },
+  {
+    "name": "Boy With Luv (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Boy With Luv\" Unlock|"
+  },
+  {
+    "name": "Burning Up (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Burning Up\" Unlock|"
+  },
+  {
+    "name": "Burning Up (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Burning Up\" Unlock|"
+  },
+  {
+    "name": "Dionysus (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Dionysus\" Unlock|"
+  },
+  {
+    "name": "Dionysus (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Dionysus\" Unlock|"
+  },
+  {
+    "name": "DNA (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"DNA\" Unlock|"
+  },
+  {
+    "name": "DNA (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"DNA\" Unlock|"
+  },
+  {
+    "name": "Dope (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Dope\" Unlock|"
+  },
+  {
+    "name": "Dope (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Dope\" Unlock|"
+  },
+  {
+    "name": "Dynamite (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Dynamite\" Unlock|"
+  },
+  {
+    "name": "Dynamite (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Dynamite\" Unlock|"
+  },
+  {
+    "name": "FAKE LOVE (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"FAKE LOVE\" Unlock|"
+  },
+  {
+    "name": "FAKE LOVE (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"FAKE LOVE\" Unlock|"
+  },
+  {
+    "name": "IDOL (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"IDOL\" Unlock|"
+  },
+  {
+    "name": "IDOL (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"IDOL\" Unlock|"
+  },
+  {
+    "name": "MIC Drop (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"MIC Drop\" Unlock|"
+  },
+  {
+    "name": "MIC Drop (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"MIC Drop\" Unlock|"
+  },
+  {
+    "name": "Not Today (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Not Today\" Unlock|"
+  },
+  {
+    "name": "Not Today (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"Not Today\" Unlock|"
+  },
+  {
+    "name": "UGH! (Pass)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"UGH!\" Unlock|"
+  },
+  {
+    "name": "UGH! (A+ Ranking)",
+    "category": [
+      "BTS"
+    ],
+    "requires": "|\"UGH!\" Unlock|"
+  },
+  {
+    "name": "Has a Meaning (Pass)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"Has a Meaning\" Unlock|"
+  },
+  {
+    "name": "Has a Meaning (A+ Ranking)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"Has a Meaning\" Unlock|"
+  },
+  {
+    "name": "Dumb Thingz (Pass)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"Dumb Thingz\" Unlock|"
+  },
+  {
+    "name": "Dumb Thingz (A+ Ranking)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"Dumb Thingz\" Unlock|"
+  },
+  {
+    "name": "While We're Young (Pass)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"While We're Young\" Unlock|"
+  },
+  {
+    "name": "While We're Young (A+ Ranking)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"While We're Young\" Unlock|"
+  },
+  {
+    "name": "What I Like (Pass)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"What I Like\" Unlock|"
+  },
+  {
+    "name": "What I Like (A+ Ranking)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"What I Like\" Unlock|"
+  },
+  {
+    "name": "Famous (Pass)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"Famous\" Unlock|"
+  },
+  {
+    "name": "Famous (A+ Ranking)",
+    "category": [
+      "Timbaland"
+    ],
+    "requires": "|\"Famous\" Unlock|"
+  },
+  {
+    "name": "American Idiot (Pass)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"American Idiot\" Unlock|"
+  },
+  {
+    "name": "American Idiot (A+ Ranking)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"American Idiot\" Unlock|"
+  },
+  {
+    "name": "Father of All... (Pass)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Father of All...\" Unlock|"
+  },
+  {
+    "name": "Father of All... (A+ Ranking)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Father of All...\" Unlock|"
+  },
+  {
+    "name": "Boulevard of Broken Dreams (Pass)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Boulevard of Broken Dreams\" Unlock|"
+  },
+  {
+    "name": "Boulevard of Broken Dreams (A+ Ranking)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Boulevard of Broken Dreams\" Unlock|"
+  },
+  {
+    "name": "Holiday (Pass)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Holiday\" Unlock|"
+  },
+  {
+    "name": "Holiday (A+ Ranking)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Holiday\" Unlock|"
+  },
+  {
+    "name": "Fire, Ready, Aim (Pass)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Fire, Ready, Aim\" Unlock|"
+  },
+  {
+    "name": "Fire, Ready, Aim (A+ Ranking)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Fire, Ready, Aim\" Unlock|"
+  },
+  {
+    "name": "Minority (Pass)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Minority\" Unlock|"
+  },
+  {
+    "name": "Minority (A+ Ranking)",
+    "category": [
+      "Green Day"
+    ],
+    "requires": "|\"Minority\" Unlock|"
+  },
+  {
+    "name": "Play (Pass)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Play\" Unlock|"
+  },
+  {
+    "name": "Play (A+ Ranking)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Play\" Unlock|"
+  },
+  {
+    "name": "Glide (Pass)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Glide\" Unlock|"
+  },
+  {
+    "name": "Glide (A+ Ranking)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Glide\" Unlock|"
+  },
+  {
+    "name": "Luv U Need U (Pass)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Luv U Need U\" Unlock|"
+  },
+  {
+    "name": "Luv U Need U (A+ Ranking)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Luv U Need U\" Unlock|"
+  },
+  {
+    "name": "Rock It (Pass)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Rock It\" Unlock|"
+  },
+  {
+    "name": "Rock It (A+ Ranking)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Rock It\" Unlock|"
+  },
+  {
+    "name": "Shiawase (Pass)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Shiawase\" Unlock|"
+  },
+  {
+    "name": "Shiawase (A+ Ranking)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Shiawase\" Unlock|"
+  },
+  {
+    "name": "Test Me (Pass)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Test Me\" Unlock|"
+  },
+  {
+    "name": "Test Me (A+ Ranking)",
+    "category": [
+      "Rocket League"
+    ],
+    "requires": "|\"Test Me\" Unlock|"
+  },
+  {
+    "name": "Boundless (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Boundless\" Unlock|"
+  },
+  {
+    "name": "Boundless (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Boundless\" Unlock|"
+  },
+  {
+    "name": "Emoji VIP (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Emoji VIP\" Unlock|"
+  },
+  {
+    "name": "Emoji VIP (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Emoji VIP\" Unlock|"
+  },
+  {
+    "name": "EPIC (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"EPIC\" Unlock|"
+  },
+  {
+    "name": "EPIC (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"EPIC\" Unlock|"
+  },
+  {
+    "name": "Feeling Stronger (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Feeling Stronger\" Unlock|"
+  },
+  {
+    "name": "Feeling Stronger (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Feeling Stronger\" Unlock|"
+  },
+  {
+    "name": "Overkill (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Overkill\" Unlock|"
+  },
+  {
+    "name": "Overkill (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Overkill\" Unlock|"
+  },
+  {
+    "name": "Rattlesnake (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Rattlesnake\" Unlock|"
+  },
+  {
+    "name": "Rattlesnake (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Rattlesnake\" Unlock|"
+  },
+  {
+    "name": "Stronger (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Stronger\" Unlock|"
+  },
+  {
+    "name": "Stronger (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Stronger\" Unlock|"
+  },
+  {
+    "name": "This Time (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"This Time\" Unlock|"
+  },
+  {
+    "name": "This Time (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"This Time\" Unlock|"
+  },
+  {
+    "name": "Till It's Over (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Till It's Over\" Unlock|"
+  },
+  {
+    "name": "Till It's Over (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"Till It's Over\" Unlock|"
+  },
+  {
+    "name": "We Won't Be Alone (Pass)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"We Won't Be Alone\" Unlock|"
+  },
+  {
+    "name": "We Won't Be Alone (A+ Ranking)",
+    "category": [
+      "Monstercat"
+    ],
+    "requires": "|\"We Won't Be Alone\" Unlock|"
+  }
 ]

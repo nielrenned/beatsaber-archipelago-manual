@@ -1,11 +1,11 @@
 {
 	"game": "Beatsaber",
-	"creator": "Spencer2585",
-	"filler_item_name": "Bombs",
+	"creator": "nielrenned",
+	"filler_item_name": "Note",
 	"starting_items": [
 		{
 			"item_categories": [
-				"Pack Unlocks"
+				"Song Unlocks"
 			],
 			"random": 1
 		}
